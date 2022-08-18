@@ -41,11 +41,16 @@ public class Translator {
                         t.setValue(split[1]);
                     }
                     if (split[0].equals(Constants.TRANSLATION_KEY_ENG)) {
-                        t.setTranslation(split[1]);
+                        if (split.length>1) {
+                            t.setTranslation(split[1]);
+                        } else {
+                            t.setTranslation("");
+                        }
                     }
-                    if (split[0].equals(Constants.TRANSLATION_KEY_OPTIONS)) {
-                        String[] options = split[1].split(";");
-                        t.addOptions(options);
+                    if (split[0].equals(Constants.TRANSLATION_KEY_JPN)) {
+                        if (split.length>1) {
+                            t.setJapanese(split[1]);
+                        }
                     }
                 }
             } else {

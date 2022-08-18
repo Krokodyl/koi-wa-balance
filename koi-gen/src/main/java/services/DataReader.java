@@ -13,6 +13,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
 
+import static services.Utils.h;
+
 public class DataReader {
 
     public static void readPointerTables(List<PointerTable> pointerTables, Translator translator, List<GameCharacter> latin) {
@@ -40,7 +42,7 @@ public class DataReader {
                         englishPointer.setData(englishCodes);
                         //englishPointer.setData(pointer.getData());
                         englishPointer.setOffsetData(existingPointer.getOffsetData());
-                        englishPointer.setOffset(pointer.getOffset());
+                        englishPointer.addAll(pointer.getOffsets());
                         englishPointer.setValue(existingPointer.getValue());
                         table.addPointerDataEng(englishPointer);
                     }
@@ -56,7 +58,7 @@ public class DataReader {
                         Translation translation = translator.getTranslation(pointer.getValue());
                         PointerData englishPointer = new PointerData();
                         englishPointer.setData(englishCodes);
-                        englishPointer.setOffset(pointer.getOffset());
+                        englishPointer.addAll(pointer.getOffsets());
                         /*if (translation.hasOption(Constants.TRANSLATION_KEY_OPTIONS_KEEP_VALUE)) {
                             englishPointer.setOffsetData(pointer.getOffsetData());
                             englishPointer.setValue(pointer.getValue());
@@ -93,10 +95,18 @@ public class DataReader {
                 int b = (data[i + 1] & 0xFF);
                 int c = b * 256 + a;
                 p.setValue(c);
-                p.setOffset(i);
+                p.addOffset(i);
                 String[] readData = readPointerData(c + range.getShift(), data);
                 p.setData(readData);
                 p.setOffsetData(c + range.getShift());
+                boolean found = false;
+                for (PointerData pointer : table.getDataJap()) {
+                    if (pointer.getOffsetData()==p.getOffsetData()) {
+                        pointer.addOffset(i);
+                        found = true;
+                    }
+                }
+                if (!found)
                 table.addPointerDataJap(p);
             }
         }
@@ -227,12 +237,14 @@ public class DataReader {
 
             if (first) {
                 String value = Utils.padLeft(Integer.toHexString(pointerData.getValue()), '0', 4);
-                System.out.println("OFFSET="+Integer.toHexString(pointerData.getOffset()));
+                for (Integer offset : pointerData.getOffsets()) {
+                    System.out.println("OFFSET="+h(offset));
+                }
                 System.out.println("VALUE="+ value);
-                System.out.println("OFFSETDATA="+Integer.toHexString(pointerData.getOffsetData()));
-                System.out.println("DATA="+data);
+                System.out.println("OFFSETDATA="+h(pointerData.getOffsetData()));
+                System.out.println("DATA="+data.trim().toUpperCase());
                 System.out.println("JAP="+jap);
-                System.out.println("ENG="+ value + "{EL}");
+                System.out.println("ENG="+ value.toUpperCase() + "{EL}");
                 System.out.println();
             }
         }

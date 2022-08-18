@@ -18,7 +18,7 @@ public class Koi {
         data = DataReader.loadData(config.getRomInput());
         List<GameCharacter> japanese = DataReader.loadCharacters("/table-japanese.txt");
         List<GameCharacter> latin = DataReader.loadCharacters("/table-latin.txt");
-        translator.loadTranslationFile("translations/table1.txt");
+        translator.loadTranslationFile("translations/table2.txt");
         List<PointerTable> pointerTables = JsonLoader.loadTables();
         List<BufferedImage> alphabetImages = DataReader.readAlphabetMainImages("uppercase/uppercase", Constants.COUNT_UPPERCASE);
         SpriteWriter spriteWriter = new SpriteWriter();
@@ -35,7 +35,9 @@ public class Koi {
         
         DataReader.readPointerTables(pointerTables, translator, latin);
 
+        
         for (PointerTable table : pointerTables) {
+            //DataReader.printTable(table, japanese);
             data = DataWriter.writeEnglish(table, data);
         }
         

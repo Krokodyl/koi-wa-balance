@@ -1,7 +1,6 @@
 package entities;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Translation {
@@ -10,25 +9,9 @@ public class Translation {
     private String value = "";
     private int offsetData = 0;
     private String translation = "";
-    private List<String> options = new ArrayList<>();
+    private String japanese = "";
 
     public Translation() {
-    }
-
-    public int getOffset() {
-        return offset;
-    }
-
-    public void setOffset(int offset) {
-        this.offset = offset;
-    }
-
-    public String getValue() {
-        return value;
-    }
-
-    public void setValue(String value) {
-        this.value = value;
     }
 
     public int getOffsetData() {
@@ -39,6 +22,24 @@ public class Translation {
         this.offsetData = offsetData;
     }
 
+    public int getOffset() {
+        return offset;
+    }
+
+    public String getValue() {
+        return value;
+    }
+
+    public void setValue(String value) {
+        this.value = value;
+    }
+
+    public void setOffset(int offset) {
+        this.offset = offset;
+    }
+
+    public static List<String> test = new ArrayList<>();
+
     public String getTranslation() {
         return translation;
     }
@@ -47,15 +48,11 @@ public class Translation {
         this.translation = translation;
     }
 
-    public void addOption(String s) {
-        options.add(s);
+    public String getJapanese() {
+        return japanese;
     }
 
-    public void addOptions(String[] s) {
-        Collections.addAll(options, s);
-    }
-
-    public boolean hasOption(String s) {
-        return options.contains(s);
+    public void setJapanese(String japanese) {
+        this.japanese = japanese;
     }
 }

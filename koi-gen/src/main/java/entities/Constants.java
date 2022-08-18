@@ -27,7 +27,7 @@ public class Constants {
     public static List<Integer> SKIPPED_CHARACTER_CODE = Arrays.asList(Integer.parseInt("60",16), Integer.parseInt("68",16));
 
     public static String TRANSLATION_KEY_VALUE_SEPARATOR = "=";
-    public static String TRANSLATION_KEY_JAP = "JAP";
+    public static String TRANSLATION_KEY_JPN = "JPN";
     public static String TRANSLATION_KEY_ENG = "ENG";
     public static String TRANSLATION_KEY_OFFSETDATA = "OFFSETDATA";
     public static String TRANSLATION_KEY_DATA = "DATA";
