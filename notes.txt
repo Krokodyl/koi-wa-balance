@@ -1,0 +1,160 @@
+xaab30
+04 06 07 02 03 02 7F 7F 7F 02 03 02 3F 3F 3F 02
+top-left				bot-left
+
+027a	日
+
+top left 	00 00 00 00 00 00 00 00 7f 7f 5f 60 60 40 60 40
+bot left	60 40 7f 7f 7f 40 60 40 60 40 60 40 7f 7f 3f 40
+
+
+$C0/8BD1 A7 25       LDA [$25]  [$C2:255A]   A:0200 X:0004 Y:0002 P:envMxdIZc
+$C0/8BD3 C2 20       REP #$20                A:027A X:0004 Y:0002 P:envMxdIzc
+$C0/8BD5 E6 25       INC $25    [$00:0125]   A:027A X:0004 Y:0002 P:envmxdIzc
+$C0/8BD7 E2 20       SEP #$20                A:027A X:0004 Y:0002 P:envmxdIzc
+$C0/8BD9 4C E8 89    JMP $89E8  [$C0:89E8]   A:027A X:0004 Y:0002 P:envMxdIzc
+$C0/89E8 C2 20       REP #$20                A:027A X:0004 Y:0002 P:envMxdIzc
+$C0/89EA 85 29       STA $29    [$00:0129]   A:027A X:0004 Y:0002 P:envmxdIzc
+$C0/89EC E2 20       SEP #$20                A:027A X:0004 Y:0002 P:envmxdIzc
+$C0/89EE 20 F2 8E    JSR $8EF2  [$C0:8EF2]   A:027A X:0004 Y:0002 P:envMxdIzc
+
+
+$C0/8EF2 C2 20       REP #$20                A:027A X:0004 Y:0002 P:envMxdIzc
+$C0/8EF4 A5 29       LDA $29    [$00:0129]   A:027A X:0004 Y:0002 P:envmxdIzc
+$C0/8EF6 0A          ASL A                   A:027A X:0004 Y:0002 P:envmxdIzc
+$C0/8EF7 0A          ASL A                   A:04F4 X:0004 Y:0002 P:envmxdIzc
+$C0/8EF8 0A          ASL A                   A:09E8 X:0004 Y:0002 P:envmxdIzc
+$C0/8EF9 85 49       STA $49    [$00:0149]   A:13D0 X:0004 Y:0002 P:envmxdIzc
+$C0/8EFB 0A          ASL A                   A:13D0 X:0004 Y:0002 P:envmxdIzc
+$C0/8EFC 65 49       ADC $49    [$00:0149]   A:27A0 X:0004 Y:0002 P:envmxdIzc
+$C0/8EFE 18          CLC                     A:3B70 X:0004 Y:0002 P:envmxdIzc
+$C0/8EFF 69 00 80    ADC #$8000              A:3B70 X:0004 Y:0002 P:envmxdIzc
+$C0/8F02 85 53       STA $53    [$00:0153]   A:BB70 X:0004 Y:0002 P:eNvmxdIzc
+
+
+xABB70
+7F 7F 5F 60 60 40 60 40 60 40 7F 7F 7F 40 60 40 
+60 40 60 40 7F 7F 3F 40 3C 3E 1E 24 06 04 06 04
+
+Loading the bottom 4 lines of the top-left tile
+$C0/8F5E A9 04       LDA #$04                A:5CC0 X:0004 Y:0002 P:eNvMxdIzc
+$C0/8F60 85 45       STA $45    [$00:0145]   A:5C04 X:0004 Y:0002 P:envMxdIzc
+
+Loading the bot-left tile (8 lines)
+$C0/8F8C A9 08       LDA #$08                A:5D80 X:0002 Y:0010 P:envMxdIzc
+$C0/8F8E 85 45       STA $45    [$00:0145]   A:5D08 X:0002 Y:0010 P:envMxdIzc
+
+###################################
+11001010 11001010	CA CA	XX--X-X-
+Shift R 2
+00110010 00110010	32 32	--XX--X-
+Shift L 6
+10000000 10000000
+
+x1006CA		First text intro
+
+########################### CHANGES
+
+$C0/8FB3 EA          NOP                     A:00A0 X:00C2 Y:0000 P:eNvMxdIzc
+
+$C0/8FF2 EA          NOP                     A:0000 X:0008 Y:0000 P:envmxdIZc
+$C0/8FF3 EA          NOP                     A:0000 X:0008 Y:0000 P:envmxdIZc
+$C0/8FF4 EA          NOP                     A:0000 X:0008 Y:0000 P:envmxdIZc
+$C0/8FF5 EA          NOP                     A:0000 X:0008 Y:0000 P:envmxdIZc
+
+
+$C0/8FF2 4A          LSR A                   A:0000 X:0008 Y:0000 P:envmxdIZc
+$C0/8FF3 4A          LSR A                   A:0000 X:0008 Y:0000 P:envmxdIZc
+$C0/8FF4 4A          LSR A                   A:0000 X:0008 Y:0000 P:envmxdIZc
+$C0/8FF5 4A          LSR A                   A:0000 X:0008 Y:0000 P:envmxdIZc
+
+$C0/8F4F 69 08       ADC #$08                A:0040 X:0010 Y:0080 P:envMxdIzc
+$C0/8F51 85 28       STA $28    [$00:0128]   A:0048 X:0010 Y:0080 P:envMxdIzc
+
+
+$C1/4096 A9 08       LDA #$08                A:007E X:010C Y:0024 P:envMxdIZC
+$C1/4098 8D 20 01    STA $0120  [$00:0120]   A:0008 X:010C Y:0024 P:envMxdIzC
+$C1/409B 22 14 80 C0 JSL $C08014[$C0:8014]   A:0008 X:010C Y:0024 P:envMxdIzC
+
+############# TEXT WIDTH ##############
+
+BK		C0891A		exec
+BK		000120		write
+
+$C0/891A 85 25       STA $25    [$00:0125]   A:056C X:0800 Y:0024 P:envmxdIzc
+$C1/4098 8D 20 01    STA $0120  [$00:0120]   A:0008 X:010C Y:0024 P:envMxdIzC
+
+056C = Main menu
+
+x14096	A9 08 8D 20 01
+		A9 09 8D 20 01
+
+############# TITLE ##############
+
+Koi wa Balance: Tatoeba K-kun no Tabou na Ichinichi Hen
+
+Battle of Lovers
+恋はバランス				
+Koi wa baransu		Love is balance
+
+たとえばK君の多忙な一日編
+Tatoeba K kimi no tabōna tsuitachi-hen
+
+スタ一ト	Start
+ル一ル	Rules
+
+キー播作
+
+達
+
+Rules Battle Items Controls
+ Rules F    I       C
+ 
+############# COMPRESSION ##############
+
+FLAG-BYTE: 0=copy 1=repeat		Read from right to left
+REPEAT-BYTE: 10 C0
+C0 10
+11000000 00010000
+    -------------
+----  shift back
+12 (+3 = count)
+
+F0 02 F0 02 F0 02 F0 01 80 04 FF 0A 50 00 4F 5D 16 
+	00 
+01 F0 05 A0 
+	FF 
+01 40 
+	03 E7 03 
+88 	03 3F 3F 
+0E 50
+	FF FF E7
+10 C0 00 FC FE F8 F8 F0 F0 C0 E1
+ 
+11110000 00000001 
+
+############# SPRITES ##############
+
+Title screen tiles
+
+x401B9	BE 8E C1
+$C1:8EBE	x18EBE - x1EC0F
+
+Title screen tiles map 01
+x401EC	00 80 C3
+
+Title screen tiles map 01
+x401EF	F3 85 C3
+
+
+Header 4F 5D
+
+x5d4f = compressed byte count
+
+Footer 02 57 5D FC 28 D7
+02 = compressed byte count
+x5D57 = End offset
+
+$C0/D005 BF 00 00 C4 LDA $C40000,x[$C4:01B9] A:01B9 X:01B9 Y:8000 P:envmxdIzc
+$C0/D005 BF 00 00 C4 LDA $C40000,x[$C4:01EC] A:01EC X:01EC Y:8000 P:envmxdIzc
+$C0/D005 BF 00 00 C4 LDA $C40000,x[$C4:01EF] A:01EF X:01EF Y:8000 P:envmxdIzc
