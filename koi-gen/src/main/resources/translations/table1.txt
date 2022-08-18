@@ -1,0 +1,402 @@
+OFFSET=204fc
+VALUE=2559
+OFFSETDATA=22559
+DATA=027a 02b7 01a6 0238 bb 02c0 0127 8c 40 d6 96 0127 bb 0268 01cc 05 8c 40 d6 96 02f5 50 c8 52 de a8 02f7 7c 7b 02f8 81 93 bb 0262 05 0110 0237 99 db b5 ab 9f d9 01c0 014b 0268 01cc cb 77 0204 bb 022a 01b3 05 8b d7 021d 41 b3 8f a5 81 b3 d7 b3 8f b3 cd 9f f0 00
+JAP=日本最大の名家キバラシ家の当主{05}キバラシ・ゲンゴロウ(98)はこの度{05}引退するにあたり次期当主を4人の息子{05}から選ばなくてはならなくなった。{EL}
+ENG=Gengoro Kibarashi (98), the {NL}head of  Japan{'s} largest{NL}renowned Kibarashi family{NL}had to choose the next head{NL}of his family from his four{NL}sons when he retires.{EL}
+
+OFFSET=204fe
+VALUE=25b7
+OFFSETDATA=225b7
+DATA=50 c8 52 de a8 05 fa d0 98 92 023a c5 f9 c7 97 d5 d5 a9 ad ad 027d 57 cf f0 05 b1 bd af 023a bb 0247 8b d7 01c0 014b 8c 40 d6 96 0127 0268 01cc cb 05 021d 49 a9 a7 01b4 a9 f0 9d 93 65 93 dd c5 d9 b1 bd af 023a 05 b5 ab db 01ba cb 99 db 9f d3 b5 0136 87 01d9 a5 d5 d7 a9 f0 05 9d bb ab db 93 a7 a7 81 e7 58 40 d8 00
+JAP=ゲンゴロウ{05}┌ムスコ達よ、わしももういい年じゃ。{05}おまえ達の中から次期キバラシ家当主を{05}選ぼうと思う。そこでこれよりおまえ達{05}にある事をするために衔へ出てもらう。{05}そのあることとは…ズバリ{EL}
+ENG=Gengorou: My sons, I'm getting old.{NL}I will choose the heir of the{NL}Kibarashi family among you. So I ask{NL}you to go out because I'll choose{NL}the best…{EL}
+
+OFFSET=20500
+VALUE=2625
+OFFSETDATA=22625
+DATA=ff fa b2 c8 69 57 cf e9 e9 fd 05 05 ff 02f7 81 ab eb 02f8 ff 05 ab cd 91 b5 a7 d7 dd db 77 0204 016d 0256 cb 014e b5 a7 d3 59 05 50 c8 52 de a8 81 022d 91 db f0 00
+JAP= ┌ナンパじゃ!!┘{05}{05} (はあ?) {05}あっけにとられる4人兄弟を気にとめず{05}ゲンゴロウは続ける。{EL}
+ENG=Seducer!{NL}(What the ?){NL}Gengorou continues without worrying{NL}about the four brothers who are{NL}taken aback.{EL}
+
+OFFSET=20502
+VALUE=265e
+OFFSETDATA=2265e
+DATA=50 c8 52 de a8 05 fa 01e2 0209 a7 81 bc 8a 029e 01b4 0151 b3 d5 bb 57 cf e7 4b f9 05 02df 012d 65 8d b7 d5 bb cb 02df 012d 99 db 93 a7 e7 05 93 dd 93 9d 021f a5 bb 026f b5 0253 59 e9 00
+JAP=ゲンゴロウ{05}┌女性とはマカ不思讓なものじゃ…が、{05}理解できぬものを理解すること…{05}これこそ全ての适に通ず!{EL}
+ENG=A woman is a mysterious thing, but{NL}understanding what you can't{NL}understand…makes you qualified!{EL}
+
+OFFSET=20504
+VALUE=26a0
+OFFSETDATA=226a0
+DATA=b1 bd af 023a bb 0247 65 010d 028e 0232 8f 01e2 0209 bb 80 e5 a6 cb 05 a3 8b c9 5f 01c7 f9 9d bb 01c7 cb 01c0 014b 8c 40 d6 96 0127 bb 05 0268 01cc a7 99 db e7 e7 c5 ad b3 e9 fd 05 05 02f7 e7 e7 e7 e7 f0 02f8 00
+JAP=おまえ達の中で一番多く女性のハートを{05}つかんだ者、その者を次期キバラシ家の{05}当主とする……よいな!┘{05}{05}(…………。){EL}
+ENG=Whoever picks up the most girl's{NL}heart will become the next head of{NL}the Kibarashi family!{EL}
+
+OFFSET=20506
+VALUE=26ec
+OFFSETDATA=226ec
+DATA=89 a7 c9 67 c6 90 bb c7 8b d7 b7 bd bd 05 8c 40 d6 96 0127 bb 77 0204 81 05 fa 014e 020b 97 fd 014e 02a6 65 0136 87 a7 8f d9 01d9 97 9f f0 00
+JAP=ほとんどワケのわからぬまま{05}キバラシ家の4人は{05}┌気暗し┘気分で衔へとくり出した。{EL}
+ENG=And thus, the four members of the{NL}Kibarashi family, with mixed{NL}feelings, went out.{EL}
+
+OFFSET=2005c
+VALUE=382c
+OFFSETDATA=2382c
+DATA=8c a4 e6 02f5 c6 ac da 66 05 023f 020d 027a ff 7a 0176 77 027a 05 8b b5 01a5 ff f2 016e 05 f2 02fe f6 05 ff 7c 75 ff 79 74 ff 7b 76 05 0193 8d b3 d5 bb 05 ff b4 c8 56 ce f9 94 d0 d6 ac 05 ff 0265 02d6 02a7 0123 05 02f7 8a c8 a1 4b ad ab d9 02f8 00
+JAP=キティ・ワイルド{05}誕生日 7月4日{05}かに座 B型{05}BWH{05} 92 61 83{05}好きなもの{05} ニンヂャ、サムライ{05} 東洋文化{05}(カンちがいあり){EL}
+ENG=Kitty Wild{NL}Born Jul. 4{NL}Cancer      {NL}BWH     Blood:B{NL} 92 61 83{NL}Likes{NL} Ninja{NL} Samurai{NL} Asian cultures{NL}{EL}
+
+OFFSET=2005e
+VALUE=3884
+OFFSETDATA=23884
+DATA=01d5 02d8 ff 02b1 05 023f 020d 027a ff 74 75 0176 74 73 027a 05 ad a5 01a5 ff f1 016e 05 05 0193 8d b3 d5 bb 05 ff 97 59 8b b3 01de b5 ad db 01ba 05 ff 0272 01e0 05 0209 0137 05 ff b1 a7 b3 97 ad 00
+JAP=秋集 萌{05}誕生日 12月10日{05}いて座 A型{05}{05}好きなもの{05} しずかな所にいる事{05} 読書{05}性格{05} おとなしい{EL}
+ENG=Autumn Cute{NL}Born Dec. 10{NL}Sagittarius {NL}        Blood:A{NL}Likes{NL} Quiet places{NL} Reading{NL}Personality{NL} Quiet{EL}
+
+OFFSET=20060
+VALUE=38cc
+OFFSETDATA=238cc
+DATA=021a 01a8 ff ad 99 63 05 023f 020d 027a ff 78 0176 74 78 027a 05 b1 a9 97 01a5 ff f2 016e 05 05 0209 0137 05 ff 0163 4b cd 9f 01ba 81 8d d7 ad 05 0193 8d b3 d5 bb 05 ff 9f 93 c1 8d f9 40 ac 8e 00
+JAP=川崎 いすづ{05}誕生日 5月15日{05}おうし座 B型{05}{05}性格{05} 曲がった事はきらい{05}好きなもの{05} たこやき、バイク{EL}
+ENG=Holly Kawasaki{NL}Born May 15{NL}Taurus      {NL}        Blood:B{NL}Personality{NL}Hates injustice{NL}Likes{NL} Takoyaki{NL} Motorcycle{EL}
+
+OFFSET=20062
+VALUE=3912
+OFFSETDATA=23912
+DATA=01be 02cb ff 93 c5 bf 05 023f 020d 027a ff 74 0176 75 78 027a 05 bf 59 4b d3 01a5 ff f2 016e 05 f2 02fe f6 05 ff 79 79 ff 78 76 ff 7a 73 05 0193 8d b3 d5 bb 05 ff 98 be cc 6d bb 8c d0 9e a2 05 01e7 02dc bb 02bd 05 ff 98 a0 e0 c6 e5 64 98 05 00
+JAP=時野 こよみ{05}誕生日 1月25日{05}みずがめ座 B型{05}BWH{05} 66 53 70{05}好きなもの{05} スミップのキムタツ{05}将来の萝{05} スチュワーデス{05}{EL}
+ENG=Robin Rustic{NL}Born Jan. 25{NL}Aquarius    {NL}BWH     Blood:B{NL} 66 53 70 {NL}Likes{NL} SMAP{NL}Wants to be{NL} Stewardess{EL}
+
+OFFSET=20064
+VALUE=3968
+OFFSETDATA=23968
+DATA=021c 0222 ff 0274 0296 05 023f 020d 027a ff 76 0176 76 027a 05 a9 b1 01a5 ff f1 016e 05 01f8 0162 05 ff 0127 01ba a5 a3 5f ad 05 0193 8d b3 d5 bb 05 ff 0117 012a 02f7 88 d6 e5 d5 bb 02f8 05 0209 0137 05 ff a6 de ad ff 9b c7 0193 8d 05 00
+JAP=浅倉 奈美{05}誕生日 3月3日{05}うお座 A型{05}職桊{05} 家事てつだい{05}好きなもの{05} 呋画(ホラーもの){05}性格{05} トロい せわ好き{05}{EL}
+ENG=Nami Asakura{NL}Born Mar. 3{NL}Pisces      {NL}        Blood:A{NL}Work{NL} Housemaid{NL}Likes{NL} Armpit picture{NL}Personality{NL} A bit silly{EL}
+
+OFFSET=20066
+VALUE=39bf
+OFFSETDATA=239bf
+DATA=019c 02cb ff 8b d9 c9 05 023f 020d 027a ff 79 0176 75 027a 05 85 9f 53 01a5 ff 73 016e 05 01f8 0162 05 ff 0238 013a 020d 05 0193 8d b3 98 71 e5 a2 05 ff 98 8c e5 f9 94 cc 8a e5 0269 05 01e7 02dc bb 02bd 05 ff 0218 020d 05 00
+JAP=香野 かりん{05}誕生日 6月2日{05}ふたご座 0型{05}職桊{05} 大宇生{05}好きなスポーツ{05} スキー、サッカー等{05}将来の萝{05} 先生{05}{EL}
+ENG=Karin Kano{NL}Born Jun. 2{NL}Gemini  Blood:O{NL}Work{NL} Daewoo{NL}Likes{NL} Ski{NL} Soccer{NL}Wants to be{NL} Teacher{EL}
+
+OFFSET=20068
+VALUE=3a11
+OFFSETDATA=23a11
+DATA=0225 0280 ff 01a2 02cc 05 023f 020d 027a ff 77 0176 75 027a 05 b1 83 a3 57 01a5 ff f1 016e 05 f2 02fe f6 05 ff 7b 7b ff 79 73 ff 7c 74 05 0193 8d b3 d5 bb 05 ff b1 0166 ff 018e d9 d5 bb 05 ff 027a 02b7 01d0 05 0209 0137 05 ff c7 4b bd bd ff 9e 8a 42 e5 05 00
+JAP=相馬 佐弥{05}誕生日 4月2日{05}おひつじ座 A型{05}BWH{05} 88 60 91{05}好きなもの{05} お金 光りもの{05} 日本酒{05}性格{05} わがまま タカビー{05}{EL}
+ENG=Saya Soma{NL}Born Apr. 2{NL}Aries       {NL}BWH     Blood:A{NL} 88 60 91 {NL}Likes{NL} Money{NL} Sake{NL}Personality{NL} Really selfish{EL}
+
+OFFSET=2006a
+VALUE=3a6e
+OFFSETDATA=23a6e
+DATA=024e 02cb ff 02d4 019c 05 023f 020d 027a ff 7c 0176 74 7c 027a 05 b1 a7 d3 01a5 ff f1 f2 016e 05 f2 02fe f6 05 ff 7b 7c ff 78 77 ff 7c 73 05 01f8 0162 05 ff 64 69 4a 05 0209 0137 05 ff aa c8 b4 e0 ac 05 00
+JAP=蝾野 夕香{05}誕生日 9月19日{05}おとめ座 AB型{05}BWH{05} 89 54 90{05}職桊{05} デパガ{05}性格{05} アンニュイ{05}{EL}
+ENG=Yuko Eno{NL}Born Sep. 19{NL}Virgo  Blood:AB{NL}BWH{NL} 89 54 90{NL}Work{NL} Clerk{NL}Personality{NL} Melancholic{EL}
+
+OFFSET=2006c
+VALUE=3ab8
+OFFSETDATA=23ab8
+DATA=0100 021a ff 0219 01b5 0296 05 023f 020d 027a ff 74 0176 79 027a 05 c1 4d 01a5 ff 73 016e 05 f2 02fe f6 05 ff 7b 76 ff 78 7b ff 7b 7a 05 0193 8d b3 d5 bb 05 ff 027c f9 98 ac be c8 4e 05 0209 0137 05 ff 010d 017c f9 bc 56 d2 05 ff c7 d9 a7 9d 9d cd 8b 97 ad 05 00
+JAP=阿川 千枝美{05}誕生日 1月6日{05}やぎ座 0型{05}BWH{05} 83 58 87{05}好きなもの{05} 描、スイミング{05}性格{05} 一見、マヂメ{05} わりとそそっかしい{05}{EL}
+ENG=Kimi Agawa{NL}Born Jan. 6{NL}Capricorn   {NL}BWH     Blood:O{NL}  83 58 87{NL}Likes Drawing{NL} Swimming{NL}Personality{NL} Seems Serious{NL} Intriguing{EL}
+
+OFFSET=2006e
+VALUE=3b16
+OFFSETDATA=23b16
+DATA=02b6 0275 ff 0206 02ae 05 023f 020d 027a ff 7b 0176 74 73 027a 05 97 97 01a5 ff 73 016e 05 0193 8d b3 d5 bb 05 ff aa ac 98 f9 be da 8e 05 ff b3 c9 65 d5 0193 8d 05 0271 0150 05 ff de e5 d6 e5 44 dc e5 66 05 01e7 02dc bb 02bd 05 ff 98 71 e5 a2 021d 01cd 00
+JAP=堀内 瑞秸{05}誕生日 8月10日{05}しし座 0型{05}好きなもの{05} アイス、ミルク{05} なんでも好き{05}特技{05} ローラーブレード{05}将来の萝{05} スポーツ選手{EL}
+ENG=Mizuki Horiuchi{NL}Born Aug. 10{NL}Leo     Blood:O{NL}Likes{NL} Ice cream{NL} What you like{NL}Skill{NL} Roller blade{NL}Wants to be{NL} Athlete{EL}
+
+OFFSET=20070
+VALUE=3b72
+OFFSETDATA=23b72
+DATA=0205 0264 ff 8b 59 bf 05 023f 020d 027a ff 74 73 0176 75 74 027a 05 a5 c9 43 c9 01a5 ff 73 016e 05 01f8 0162 05 ff 019b 75 05 0193 8d b3 d5 bb 05 ff 026e 02a5 ff a4 dc 42 50 e5 d0 05 6f cc a6 05 ff 71 a0 05 ff 02f7 0286 ac 9e a0 ff b0 98 02f8 00
+JAP=水島 かずみ{05}誕生日 10月21日{05}てんびん座 0型{05}職桊{05} 高2{05}好きなもの{05} 動物 テレビゲーム{05}ペット{05} ポチ{05} (白イタチ オス){EL}
+ENG=Kazumi Iona{NL}Born Oct. 21{NL}Libra   Blood:O{NL}Occupation{NL} High school{NL} senior{NL}Likes{NL}Pet video games{NL}Pets{NL} Pochi (Weasel){EL}
+
+OFFSET=20072
+VALUE=3bca
+OFFSETDATA=23bca
+DATA=02c0 02f1 ff 016b 05 023f 020d 027a ff 74 74 0176 76 027a 05 95 9d d9 01a5 ff 73 016e 05 01f8 0162 05 ff 0238 013a 020d 05 0193 8d b3 94 cc 8a e5 a0 e5 d0 05 ff 0115 02cb dc cc a2 05 97 e1 bf 05 ff dc cc a2 bb 94 71 e5 9e e5 00
+JAP=名和 薫{05}誕生日 11月3日{05}さそり座 0型{05}職桊{05} 大宇生{05}好きなサッカーチーム{05} 浦野レッツ{05}しゅみ{05} レッツのサポーター{EL}
+ENG=Kaoru Nawa{NL}Born Nov. 3{NL}Scorpio Blood:O{NL}Work{NL} Daewoo{NL}Favorite soccer team{NL} Urawa Reds{NL}Hobby{NL} Reds Supporter{EL}
+
+OFFSET=20224
+VALUE=0cec
+OFFSETDATA=20cec
+DATA=01df 014b d2 b4 e0 e5 012a 02c3 00
+JAP=初期メニュー画面{EL}
+ENG=Main menu{EL}
+
+OFFSET=20238
+VALUE=0d3f
+OFFSETDATA=20d3f
+DATA=50 e5 d0 0133 01b2 00
+JAP=ゲーム間始{EL}
+ENG=Start{EL}
+
+OFFSET=2022e
+VALUE=0d11
+OFFSETDATA=20d11
+DATA=92 c8 a6 de e5 d6 e5 74 00
+JAP=コントローラー1{EL}
+ENG=Joypad 1{EL}
+
+
+OFFSET=20250
+VALUE=0d94
+OFFSETDATA=20d94
+DATA=02fb 73 f7 ff ba e5 bc da 00
+JAP=C0M ノーマル{EL}
+ENG=AI: Normal{EL}
+
+OFFSET=20252
+VALUE=0d9e
+OFFSETDATA=20d9e
+DATA=02fb 73 f7 ff 024a 0273 02c4 0202 00
+JAP=C0M 猪突猛進{EL}
+ENG=AI: Reckless{EL}
+
+OFFSET=20254
+VALUE=0dac
+OFFSETDATA=20dac
+DATA=02fb 73 f7 ff 01aa 01b1 eb ff 00
+JAP=C0M 策士? {EL}
+ENG=AI: Tactician{EL}
+
+OFFSET=20226
+VALUE=0cf9
+OFFSETDATA=20cf9
+DATA=6d dc ac c0 e5 00
+OPTIONS=KEEP_VALUE
+JAP=プレイヤー{EL}
+ENG=player{EL}
+
+OFFSET=20240
+VALUE=0d5c
+OFFSETDATA=20d5c
+DATA=02fb 73 f7 ff 74 00
+OPTIONS=KEEP_VALUE
+JAP=C0M 1{EL}
+ENG=COM 1{EL}
+
+OFFSET=20242
+VALUE=0d63
+OFFSETDATA=20d63
+DATA=02fb 73 f7 ff 75 00
+OPTIONS=KEEP_VALUE
+JAP=C0M 2{EL}
+ENG=COM 2{EL}
+
+OFFSET=20244
+VALUE=0d6a
+OFFSETDATA=20d6a
+DATA=02fb 73 f7 ff 76 00
+OPTIONS=KEEP_VALUE
+JAP=C0M 3{EL}
+ENG=COM 3{EL}
+
+OFFSET=20246
+VALUE=0d71
+OFFSETDATA=20d71
+DATA=02fb 73 f7 ff 77 00
+OPTIONS=KEEP_VALUE
+JAP=C0M 4{EL}
+ENG=COM 4{EL}
+
+OFFSET=2023a
+VALUE=0d47
+OFFSETDATA=20d47
+DATA=0204 0144 00
+JAP=人間{EL}
+ENG=Human{EL}
+
+OFFSET=2023c
+VALUE=0d4c
+OFFSETDATA=20d4c
+DATA=02fb 73 f7 00
+JAP=C0M{EL}
+ENG=COM{EL}
+
+OFFSET=20280
+VALUE=0e68
+OFFSETDATA=20e68
+DATA=92 c8 a6 de e5 d6 e5 81 eb 00
+JAP=コントローラーは?{EL}
+ENG=Which controller?{EL}
+
+OFFSET=20216
+VALUE=0cc5
+OFFSETDATA=20cc5
+DATA=0173 0255 00
+JAP=決定{EL}
+ENG=Back{EL}
+
+OFFSET=20248
+VALUE=0d78
+OFFSETDATA=20d78
+DATA=02fb 73 f7 ff 78 00
+OPTIONS=KEEP_VALUE
+JAP=C0M 5{EL}
+ENG=COM 5{EL}
+
+OFFSET=2024a
+VALUE=0d7f
+OFFSETDATA=20d7f
+DATA=02fb 73 f7 ff 79 00
+OPTIONS=KEEP_VALUE
+JAP=C0M 6{EL}
+ENG=COM 6{EL}
+
+OFFSET=2024c
+VALUE=0d86
+OFFSETDATA=20d86
+DATA=02fb 73 f7 ff 7a 00
+OPTIONS=KEEP_VALUE
+JAP=C0M 7{EL}
+ENG=COM 7{EL}
+
+OFFSET=2024e
+VALUE=0d8d
+OFFSETDATA=20d8d
+DATA=02fb 73 f7 ff 7b 00
+OPTIONS=KEEP_VALUE
+JAP=C0M 8{EL}
+ENG=COM 8{EL}
+
+OFFSET=2023e
+VALUE=0d51
+OFFSETDATA=20d51
+DATA=023d a7 021b ad bd 99 8b eb 00
+JAP=誰と戦いますか?{EL}
+ENG=Select opponents{EL}
+
+OFFSET=20260
+VALUE=0dee
+OFFSETDATA=20dee
+DATA=93 ad a3 4b ba e5 bc da 57 cf ab b3 e4 f0 00
+JAP=こいつがノーマルじゃあなァ。{EL}
+ENG=This is normal{EL}
+
+OFFSET=20262
+VALUE=0dfd
+OFFSETDATA=20dfd
+DATA=024a 0273 02c4 0202 cd a5 013f 57 eb 00
+JAP=猪突猛進って感じ?{EL}
+ENG=Reckless{EL}
+
+OFFSET=20264
+VALUE=0e0c
+OFFSETDATA=20e0c
+DATA=01aa 01b1 f9 01aa b5 b1 49 dd db cd a5 8b f0 00
+JAP=策士、策におぼれるってか。{EL}
+ENG=A tactician{EL}
+
+OFFSET=20266
+VALUE=0e1d
+OFFSETDATA=20e1d
+DATA=01ae cd a5 93 9d aa ac a4 d0 f0 00
+JAP=使ってこそアイテム。{EL}
+ENG=Uses items{EL}
+
+OFFSET=20268
+VALUE=0e29
+OFFSETDATA=20e29
+DATA=b0 dc 02d5 bb 021e cb 019a 8f c0 a2 81 023d 5f e9 00
+JAP=オレ様の前を行くヤツは誰だ!{EL}
+ENG=Don't get in my way!{EL}
+
+OFFSET=2026a
+VALUE=0e3c
+OFFSETDATA=20e3c
+DATA=01ca 0249 65 d5 ad ad cc 98 f0 00
+JAP=弱虫でもいいッス。{EL}
+ENG=Coward{EL}
+
+OFFSET=2026c
+VALUE=0e48
+OFFSETDATA=20e48
+DATA=01c2 02a6 bb 01ba 97 8b 017c af a5 b3 ad eb 00
+JAP=自分の事しか見えてない?{EL}
+ENG=I only see myself{EL}
+
+OFFSET=2026e
+VALUE=0e59
+OFFSETDATA=20e59
+DATA=0124 0199 af a5 ad db c9 5f 8b e7 e7 00
+JAP=何考えているんだか……{EL}
+ENG=Thinks a lot{EL}
+
+OFFSET=206f8
+VALUE=372e
+OFFSETDATA=2372e
+DATA=02f7 0276 bb 02ee 0204 4b 0184 c7 dd 9f f0 02f8 05 fa 0286 028a 0247 81 d4 c8 98 9e e5 4b d5 cd a5 ad db f0 05 ff ab db 6d dc 5a c8 a6 cb 01ae af 41 05 ff 01cd b5 027b dd db 93 a7 4b 65 8d db 5d f0 fd 00
+JAP=(謎の老人が現われた。){05}┌白發中はモンスターがもっている。{05} あるプレゼントを使えば{05} 手に入れることができるぞ。┘{EL}
+ENG=(A mysterious old man appeared){NL}There are monsters in Shira.{NL}You can get it with a present{EL}
+
+OFFSET=20412
+VALUE=155a
+OFFSETDATA=2155a
+DATA=11 05 13 05 02ff 0d 00
+JAP={11}{05}{13}{05}♡{0d}{EL}
+ENG={11}{05}{13}{05}{cb}{0d}{EL}
+
+OFFSET=204ec
+VALUE=1edf
+OFFSETDATA=21edf
+DATA=da e5 da ff 40 a6 da ff aa ac a4 d0 ff 8c e5 0223 01a9 05 bc cc 6d 01f3 bb 01e2 bb 01b3 bb 01de 87 ad 8d f9 05 64 e5 a6 98 71 cc a6 bd 65 a3 dd a5 cd a5 ab 51 a5 05 d5 d7 af db 71 ac c8 a6 cb 8d 9d a9 50 e5 d0 65 99 f0 0b 012a 02c3 01f3 b5 01e2 bb 01b3 4b 76 0204 0184 c7 dd bd 99 f0 05 98 de cc a6 cb 012e 97 a5 01d9 9f 0207 01bc bb 02a6 5f 91 05 0202 c9 65 ad 8d 028f 01e2 023a bb 01de bd 65 019a 8d bd 99 f0 0b 028f 01e2 bb 01de bd 65 019a 8f a7 02f7 6c cd 9f d9 01b6 bd d7 b3 05 8f a5 d5 c5 ad 02f8 02ec dd a5 cd a5 89 97 ad 64 e5 a6 98 05 71 cc a6 cb 0185 ad bd 99 bb 65 f9 9d 93 bd 65 02ec dd a5 05 019a cd a5 ab 51 a5 0122 95 ad f0 0b 0231 bb 6d dc ac c0 e5 8b d7 bb aa ac a4 d0 0198 0172 c1 05 6d dc 5a c8 a6 40 a6 da cb 0214 d9 b7 91 a5 05 64 e5 a6 98 71 cc a6 bd 65 02ec dd a5 ad 8f a7 02f7 6c cd 05 9f d9 a7 bd d7 b3 8f a5 d5 c5 ad 02f8 64 e5 a6 012a 02c3 4b 05 65 a5 f9 71 ac c8 a6 cb 0270 db 01ba 4b 65 8d bd 99 f0 0b 00
+JAP=ルール バトル アイテム キー操作{05}マップ上の女の子の所へいき、{05}デートスポットまでつれてってあげて{05}もらえるポイントをきそうゲームです。{0b}画面上に女の子が3人現われます。{05}スロットを回して出た数字の分だけ{05}進んでいき彼女達の所まで行きます。{0b}彼女の所まで行くと(ぴったり止まらな{05}くてもよい)漣れてってほしいデートス{05}ポットを言いますので、そこまで漣れて{05}行ってあげて下さい。{0b}他のプレイヤーからのアイテム攻撃や{05}プレゼントバトルを切りぬけて{05}デートスポットまで漣れていくと(ぴっ{05}たりとまらなくてもよい)デート画面が{05}でて、ポイントを得る事ができます。{0b}{EL}
+ENG=Rules Fight Items Controls{EL}
+
+OFFSET=204ee
+VALUE=1ef3
+OFFSETDATA=21ef3
+DATA=bc cc 6d 01f3 bb 01e2 bb 01b3 bb 01de 87 ad 8d f9 05 64 e5 a6 98 71 cc a6 bd 65 a3 dd a5 cd a5 ab 51 a5 05 d5 d7 af db 71 ac c8 a6 cb 8d 9d a9 50 e5 d0 65 99 f0 0b 012a 02c3 01f3 b5 01e2 bb 01b3 4b 76 0204 0184 c7 dd bd 99 f0 05 98 de cc a6 cb 012e 97 a5 01d9 9f 0207 01bc bb 02a6 5f 91 05 0202 c9 65 ad 8d 028f 01e2 023a bb 01de bd 65 019a 8d bd 99 f0 0b 028f 01e2 bb 01de bd 65 019a 8f a7 02f7 6c cd 9f d9 01b6 bd d7 b3 05 8f a5 d5 c5 ad 02f8 02ec dd a5 cd a5 89 97 ad 64 e5 a6 98 05 71 cc a6 cb 0185 ad bd 99 bb 65 f9 9d 93 bd 65 02ec dd a5 05 019a cd a5 ab 51 a5 0122 95 ad f0 0b 0231 bb 6d dc ac c0 e5 8b d7 bb aa ac a4 d0 0198 0172 c1 05 6d dc 5a c8 a6 40 a6 da cb 0214 d9 b7 91 a5 05 64 e5 a6 98 71 cc a6 bd 65 02ec dd a5 ad 8f a7 02f7 6c cd 05 9f d9 a7 bd d7 b3 8f a5 d5 c5 ad 02f8 64 e5 a6 012a 02c3 4b 05 65 a5 f9 71 ac c8 a6 cb 0270 db 01ba 4b 65 8d bd 99 f0 0b 00
+JAP=マップ上の女の子の所へいき、{05}デートスポットまでつれてってあげて{05}もらえるポイントをきそうゲームです。{0b}画面上に女の子が3人現われます。{05}スロットを回して出た数字の分だけ{05}進んでいき彼女達の所まで行きます。{0b}彼女の所まで行くと(ぴったり止まらな{05}くてもよい)漣れてってほしいデートス{05}ポットを言いますので、そこまで漣れて{05}行ってあげて下さい。{0b}他のプレイヤーからのアイテム攻撃や{05}プレゼントバトルを切りぬけて{05}デートスポットまで漣れていくと(ぴっ{05}たりとまらなくてもよい)デート画面が{05}でて、ポイントを得る事ができます。{0b}{EL}
+ENG=Go to a girl on the map,{NL}take her on a date and{NL}win points.{WP}3 girls will be on the map.{NL}Turn the roulette and move{NL}as much as the number that{NL}comes out to get to them.{WP}When you reach a girl{NL}(you don't have to stop{NL}exactly), she will tell you{NL}the date spot that you must{NL}take her to.{WP}If you survive item attacks{NL}and gift battles with other{NL}players and get to the date{NL}spot, the date occurs and{NL}you get points.{WP}{EL}
+
+OFFSET=204f0
+VALUE=2026
+OFFSETDATA=22026
+DATA=64 e5 a6 cb 01d4 af 9f 01e2 bb 01b3 81 014c cd a5 97 bd ad f9 05 01fd 97 ad 01e2 bb 01b3 4b bc cc 6d b5 0184 c7 dd bd 99 bb 65 05 01c0 02f6 a7 64 e5 a6 cb 01d8 b9 a5 0122 95 ad f0 0b 01e2 bb 01b3 81 74 75 0204 ad bd 99 f0 021f 02a1 bb 01e2 bb 01b3 4b 05 64 e5 a6 97 01d4 c7 db a7 50 e5 d0 9a cc a6 65 99 f0 05 74 028e 71 ac c8 a6 cb 0270 9f 6d dc ac c0 e5 4b 01e5 01c7 a7 05 b3 d9 bd 99 f0 00
+JAP=デートを終えた女の子は帰ってしまい、{05}新しい女の子がマップに現われますので{05}次々とデートを垂ねて下さい。{0b}女の子は12人います。全部の女の子が{05}デートし終わるとゲームセットです。{05}1番ポイントを得たプレイヤーが勝者と{05}なります。{EL}
+ENG=After the date ends,{NL}the girl will leave and{NL}a new girl will appear{NL}on the map.{WP}There are 12 girls.{NL}Once all the girls have{NL}dates, the game ends.{NL}The player with the most{NL}points is the winner.{EL}
+
+OFFSET=204f2
+VALUE=20b1
+OFFSETDATA=220b1
+DATA=64 e5 a6 0247 bb 6d dc ac c0 e5 02f7 0105 018b 8a cc 6d da 02f8 05 01e2 bb 01b3 cb 02ec dd a5 ad b3 ad 6d dc ac c0 e5 02f7 0105 018b 05 74 0204 01c7 02f8 4b f9 b1 b3 57 bc 98 b5 01b6 bd db a7 f9 05 6d dc 5a c8 a6 40 a6 da 4b 0289 020d 97 bd 99 f0 0b b1 9f 4b ad d5 cd a5 db 6d dc 5a c8 a6 cb 01d9 97 019d ad 05 9d bb fa 01d8 95 fd cb 8d 9d ad bd 99 f0 05 0b 0298 59 f9 74 0204 01c7 4b 0218 0198 b5 b3 d9 bd 99 f0 05 01d6 01bc 8c e5 b5 6d dc 5a c8 a6 4b 0234 011e 97 a5 ad a5 f9 05 9d dd 5d dd bb 02b0 0192 b5 011f 99 a7 6d dc 5a c8 a6 4b 05 025a 43 c9 b5 bb cd 8b d9 bd 99 f0 05 bb 9b 9f 6d dc 5a c8 a6 cb 02c7 99 b5 81 f2 48 9e c8 cb 05 011f 97 a5 8f 5f 95 ad f0 0b 00
+JAP=デート中のプレイヤー(以後カップル){05}女の子を漣れていないプレイヤー(以後{05}1人者)が、おなじマスに止まると、{05}プレゼントバトルが発生します。{0b}おたがいもってるプレゼントを出し合い{05}その┌垂さ┘をきそいます。{05}{0b}必ず、1人者が先攻になります。{05}十字キーにプレゼントが対応していて、{05}それぞれの方向に押すとプレゼントが{05}天びんにのっかります。{05}のせたプレゼントを戻すにはBボタンを{05}押してください。{0b}{EL}
+ENG=A gift battle will occur{NL}when a player who is dating{NL}(referred to as a couple){NL}and a player who does not{NL}have a girl (hereafter{NL}referred to as single) land{NL}on the same square.{WP}It{'s} a contest to see who{NL}can show the best presents.{WP}One person always goes{NL}first.{NL}Gifts correspond to the{NL}d-pad directions, and when{NL}pressed in each direction,{NL}the gift will be placed on{NL}the balance.{NL}Press the B button to take{NL}back the gift you put on.{WP}
+
+OFFSET=204f4
+VALUE=219c
+OFFSETDATA=2219c
+DATA=f3 48 9e c8 cb 011f 97 b3 4b d7 01d6 01bc 48 9e c8 cb 011f 99 05 a7 f9 9d bb 6d dc 5a c8 a6 bb 0216 02c2 cb bf db 93 a7 4b 05 65 8d bd 99 f0 0b 6d dc 5a c8 a6 81 01a6 0238 77 a3 bd 65 025a 43 c9 b5 bb 9b 05 db 01ba 4b 65 8d bd 99 f0 05 6d dc 5a c8 a6 cb bb 9b 01d4 c7 cd 9f d7 7d 48 9e c8 cb 05 011f 97 a5 0122 95 ad f0 0b d5 a1 df c9 01d8 ad 02b0 4b 01e5 a1 65 99 f0 05 fa 01d8 95 fd 81 023e b3 db 0207 0243 5f 91 65 b3 8f f9 05 01e2 bb 01b3 bb 0193 bf 4b 0238 8d 8f 8b 8b c7 d9 bd 99 f0 00
+JAP=Yボタンを押しながら十字ボタンを押す{05}と、そのプレゼントの説明をみることが{05}できます。{0b}プレゼントは最大4つまで天びんにのせ{05}る事ができます。{05}プレゼントをのせ終わったらXボタンを{05}押して下さい。{0b}もちろん垂い方が勝ちです。{05}┌垂さ┘は単なる数値だけでなく、{05}女の子の好みが大きくかかわります。{EL}
+ENG=If you press the d-pad{NL}while holding down Y,{NL}you can see the description{NL}of that gift.{WP}Up to 4 gifts can be placed{NL}on the balance.{NL}Press the X button when you{NL}are done placing gifts.{WP}Of course, the tipping side{NL}wins.{NL}The tipping is not just{NL}about numbers but also{NL}the girl{'s} tastes.{WP}{EL}
+
+OFFSET=204f6
+VALUE=2248
+OFFSETDATA=22248
+DATA=aa ac a4 d0 cb 01ae a9 01be 81 f9 0218 b5 aa ac a4 d0 bb 05 0190 027e 4b 0216 02c2 95 dd db bb 65 01ae a9 b3 d7 f1 48 9e c8 05 01ae c7 b3 ad b3 d7 f2 48 9e c8 cb 011f 97 a5 0122 95 ad f0 05 aa ac a4 d0 cb 01ae cd 9f d7 05 9d bb 9e e5 c8 81 b1 97 bd ad b5 b3 d9 bd 99 f0 0b 02f7 ab db 8d b5 8f 8f b3 db 02f8 05 ff ff 98 de cc a6 4b 0213 8f b3 cd a5 05 ff ff 01d9 9f 02c6 8b d7 74 bc ac b2 98 95 dd bd 99 f0 05 02f7 ab db 8d c1 99 8f b3 db 02f8 05 ff ff 98 de cc a6 4b 0210 8f b3 cd a5 05 ff ff 01d9 9f 02c6 b5 6d d6 98 74 95 dd bd 99 f0 0b 02f7 010a 026e 02e6 74 02f8 05 ff ff 98 de cc a6 4b 0213 8f b3 d9 05 ff ff 74 97 8b 010a 026e 65 8d bd 9b c9 f0 05 ff ff aa ac a4 d0 81 01ae 02d7 65 8d bd 99 f0 05 02f7 010a 026e 02e6 0283 02f8 05 ff ff 01d9 9f 02c6 bb 0283 010a 026e 65 8d bd 99 f0 0b 00
+JAP=アイテムを使う時は、先にアイテムの{05}効能が説明されるので使うならAボタン{05}使わないならBボタンを押して下さい。{05}アイテムを使ったら{05}そのターンはおしまいになります。{0b}(あるきにくくなる){05}  スロットが赤くなって{05}  出た目から1マイナスされます。{05}(あるきやすくなる){05}  スロットが青くなって{05}  出た目にプラス1されます。{0b}(移動力1){05}  スロットが赤くなり{05}  1しか移動できません。{05}  アイテムは使用できます。{05}(移動力倍){05}  出た目の倍移動できます。{0b}{EL}
+ENG=When you use items, the{NL}effect of the item will be{NL}explained first, then you{NL}press the A to use it,{NL}or B to cancel.{NL}Once you use the item,{NL}the turn ends.{WP}(Move -1){NL} - The roulette turns red{NL} - Roll is reduced by 1{NL}(Move +1){NL} - The roulette turns blue{NL} - Roll is increased by 1{WP}(Move 1){NL} - The roulette turns red{NL} - Can only move 1 space{NL} - Item is ready for use{NL}(Move x2){NL} - Roll is doubled{WP}{EL}
+
+OFFSET=204f8
+VALUE=235f
+OFFSETDATA=2235f
+DATA=02f7 0166 0174 02f8 05 ff 6d dc 5a c8 a6 bc 98 b5 a7 bd cd 9f 01be 05 ff 6d dc 5a c8 a6 4b d5 d7 af b3 ad f0 05 02f7 02be 0257 02f8 05 ff 98 a4 e5 9e 98 0198 0172 cb 74 012e 5f 91 02b4 4d bd 99 f0 0b 02f7 94 ac dc 98 02f8 05 ff ff aa ac a4 d0 4b 01ae af b3 8f b3 d9 bd 99 f0 05 02f7 93 c9 d7 c9 02f8 05 ff ff 01c2 02a6 bb 0223 01a9 4b 8d 8b b3 8f b3 d9 bd 99 f0 05 02f7 b1 0156 bf 02f8 05 ff ff 97 41 d7 8f 0124 d5 65 8d bd 9b c9 f0 0b 02f7 40 a6 da 012e 0291 02f8 05 ff 6d dc 5a c8 a6 40 a6 da 8b d7 05 ff 74 012e 5f 91 026b 51 01d9 9b bd 99 f0 05 02f7 8e d8 98 bc 98 02f8 05 ff 64 e5 a6 98 71 cc a6 b5 a3 ad 9f 01be d5 d7 af db 05 ff 71 ac c8 a6 4b 0283 b5 b3 d9 bd 99 f0 00
+JAP=(金欠){05} プレゼントマスにとまった時{05} プレゼントがもらえない。{05}(無敵){05} ステータス攻撃を1回だけ防ぎます。{0b}(サイレス){05}  アイテムが使えなくなります。{05}(こんらん){05}  自分の操作がきかなくなります。{05}(お休み){05}  しばらく何もできません。{0b}(バトル回避){05} プレゼントバトルから{05} 1回だけ逃げ出せます。{05}(クリスマス){05} デートスポットについた時もらえる{05} ポイントが倍になります。{EL}
+ENG=(Broke){NL} - When you land on the{NL}   space, you can't get{NL}   presents{NL}(Invincible){NL} - Prevents status attacks{NL}   only once{WP}(Silence){NL} - Items cannot be used{NL}(Confused){NL} - You lose control of{NL}   yourself{NL}(Nap){NL} - Skips your turns.{WP}(Escape){NL} - Can escape a gift battle{NL}   once{NL}(Christmas){NL} - Doubles the points{NL}   on a date{EL}
+
+OFFSET=204fa
+VALUE=244d
+OFFSETDATA=2244d
+DATA=84 e6 e5 da 66 012a 02c3 65 bb 8c e5 0223 01a9 05 ff f1 ff 0173 0255 05 ff f2 ff 8c ce c8 9a da 05 ff 7d ff d5 cd a5 db 6d dc 5a c8 a6 cb bf db 05 ff f3 ff 02c6 0258 0244 cb bf db 02f7 64 e5 a6 0247 bb bf 02f8 05 ff f4 f5 011f 97 b3 4b d7 01d6 01bc 05 ff ff ff ff ff ff ff 012a 02c3 cb bf db 0b 6d dc 5a c8 a6 40 a6 da 05 ff 01d6 01bc ff 6d dc 5a c8 a6 cb 01d9 99 05 ff f2 ff ff 01d9 97 9f 6d dc 5a c8 a6 cb 02c7 99 05 ff 7d ff ff 6d dc 5a c8 a6 46 cc a6 b1 c7 d9 05 ff f3 011f 97 b3 4b d7 01d6 01bc 05 ff ff ff ff ff ff 6d dc 5a c8 a6 bb 0216 02c2 0b b8 e5 d0 027b 02e6 012a 02c3 05 ff f1 ff 02a7 01bc 0173 0255 05 ff f2 ff 40 cc 8e 98 6f e5 98 05 ff f3 ff d4 e5 66 9a dc 8e a6 05 ff 9a dc 8e a6 ff d4 e5 66 9a dc 8e a6 05 ff 98 9e e5 a6 ff 027b 02e6 01d4 c7 d9 00
+JAP=フィールド画面でのキー操作{05} A 決定{05} B キャンセル{05} X もってるプレゼントをみる{05} Y 目的地をみる(デート中のみ){05} LR押しながら十字{05}       画面をみる{0b}プレゼントバトル{05} 十字 プレゼントを出す{05} B  出したプレゼントを戻す{05} X  プレゼントベットおわり{05} Y押しながら十字{05}      プレゼントの説明{0b}ネーム入力画面{05} A 文字決定{05} B バックスペース{05} Y モードセレクト{05} セレクト モードセレクト{05} スタート 入力終わり{EL}
+ENG=Controls on the map{NL} A: Ok{NL} B: Cancel{NL} X: View gifts you have{NL} Y: See date destination{NL} LR + d-pad: Look around{WP}Gift battle controls{NL} A: Place a gift{NL} B: Take back a gift{NL} X: End gift battle{NL} Y + d-pad:{NL} See gift descriptions{EL}
+

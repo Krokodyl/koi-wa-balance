@@ -1,0 +1,135 @@
+{
+  "config": {
+    
+    "rom-input": "../roms/extended/BS Koi ha Balance - Battle of Lovers (J) - xt.smc",
+    "rom-input2": "../roms/original/BS Koi ha Balance - Battle of Lovers (J).smc",
+    "rom-output": "D:/git/koi-wa-balance/roms/Koi - English.smc",
+    "table.japanese": "tables/table-complete.txt"
+  },"tables": [
+    {
+      "id": 1,
+      "pointers": [
+        {
+          "start": "20000",
+          "end": "20980",
+          "shift": "20000"
+        }
+      ],
+      "new-data-start": "100020",
+      "new-data-shift": "100000"
+    }
+  ],
+  "code-patches": [
+    {
+      "code": "",
+      "offset": "108000",
+      "file": true
+    },
+    {
+      "code": "00 80 D0",
+      "orig": "BE 8E C1",
+      "offset": "401B9",
+      "debug": false
+    },
+    {
+      "code": "",
+      "offset": "110000",
+      "file": true
+    },
+    {
+      "code": "00 00 D1",
+      "orig": "00 80 C3",
+      "offset": "401EC",
+      "debug": false
+    },
+    
+    {
+      "code": "a5 27 c9 c2 d0 0f a9 d0 85 27 e2 30 a2 c2 A7 25 86 27 C2 30 6B A7 25 c2 20 6b",
+      "offset": "100000"
+    },
+    {
+      "code": "22 00 00 D0",
+      "offset": "89DC"
+    },
+    {
+      "code": "22 00 00 D0",
+      "offset": "8BD1"
+    },
+    {
+      "code": "4c a0 a8 ad 4c a4 ad b4",
+      "offset": "20cec",
+      "debug": true
+    },
+    {
+      "code": "4f ab a0 b8 b1",
+      "offset": "20cf9",
+      "debug": true
+    },
+    {
+      "code": "49 ae b8 af a0 a3 ff bb",
+      "offset": "20d11",
+      "debug": true
+    },
+    {
+      "code": "01 df 01 4b d2 b4 e0 e5 01 2a 02 c3 00",
+      "offset": "206ea"
+    },
+    {
+      "code": "6d dc ac c0 e5 00",
+      "offset": "206f7"
+    },
+    {
+      "code": "92 c8 a6 de e5 d6 e5 74 00",
+      "offset": "2070f"
+    },
+    {
+      "code": "02 fb 73 f7 ff ba e5 bc da 00",
+      "offset": "20792"
+    },
+    {
+      "code": "02 fb 73 f7 ff 02 4a 02 73 02 c4 02 02 00",
+      "offset": "2079c"
+    },
+    {
+      "code": "50 e5 d0 01 33 01 b2 00",
+      "offset": "2073d"
+    },
+
+    {
+      "code": "ea ea ea ea",
+      "offset": "8FF2",
+      "desc": "character width"
+    },
+    {
+      "code": "69 08",
+      "offset": "8F4F",
+      "desc": "character width"
+    },
+
+
+    {
+      "code": "A9 09",
+      "offset": "14096",
+      "desc": "Text 0cec width"
+    },
+    {
+      "code": "A9 0A",
+      "offset": "13F9C",
+      "desc": "Text 0d94 width"
+    },
+
+
+    {
+      "code": "08 00 38 00 68 00 98 00",
+      "offset": "DDB9",
+      "desc": "Rules arrows location"
+    },
+    {
+      "code": "A9 1A",
+      "offset": "DDE7",
+      "desc": "Rules menu width"
+    }
+    
+
+  ]
+}

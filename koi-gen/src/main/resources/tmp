@@ -1,0 +1,43 @@
+MAIN SCREEN
+初期メニュー画面    MainMenu       20cec
+プレイヤー         Player         20cf9 0171019201B000
+コントローラー1    Controller 1    20d11
+C0M ノーマル      Normal          20250
+C0M 猪突猛進      Reckless
+C0M 策士?         Tactician
+ゲーム間始
+
+です
+
+初期メニュー画面
+01df 014b d2 b4 e0 e5 012a 02c3 00
+x20cec
+Main Menu
+4c a0 a8 ad ff 4c a4 ad b4 00
+It'sIT'S
+48 b3 d1 b2 48 53 d1 52
+
+'t 'v 'd 'm 'l 's 'r
+
+にいれた
+b5 ad dd 9f
+
+どれを
+
+02f7 02f8
+とってもかわいそう
+a7 cd a5 d5 8b c7 ad 9d a9
+
+I got a pendant.
+ペンダントを手にいれた。
+6f c8 5e c8 a6 cb 01cd b5 ad dd 9f f0
+I got a bustier.
+ビスチェを手にいれた。
+
+┌ふとどきな左手┘を手にいれた。
+You got 'rude left hand'
+誰かのアイテムを1つ{05}自分のものにできます。
+You can steal someone's item
+C0M 3は
+アイテムをもっていなかった。{03}井{EL}
+03 01 0b 00
