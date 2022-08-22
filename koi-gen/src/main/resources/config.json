@@ -83,23 +83,28 @@
     },
     {
       "code": "22 00 00 D0",
-      "offset": "89DC"
+      "offset": "89DC",
+      "debug": false
     },
     {
       "code": "22 00 00 D0",
-      "offset": "8BD1"
+      "offset": "8BD1",
+      "debug": false
     },
     {
       "code": "6d dc ac c0 e5 00",
-      "offset": "206f7"
+      "offset": "206f7",
+      "debug": true
     },
     {
       "code": "92 c8 a6 de e5 d6 e5 74 00",
-      "offset": "2070f"
+      "offset": "2070f",
+      "debug": true
     },
     {
       "code": "50 e5 d0 01 33 01 b2 00",
-      "offset": "2073d"
+      "offset": "2073d",
+      "debug": true
     },
 
     {
@@ -137,8 +142,107 @@
       "code": "A9 1A",
       "offset": "DDE7",
       "desc": "Rules menu width"
+    },
+
+    {
+      "code": "A9 D0",
+      "offset": "8C32",
+      "desc": "Gift name loading",
+      "debug": false
+    },
+    {
+      "code": "A9 D0",
+      "offset": "8C5C",
+      "desc": "Item name loading",
+      "debug": false
+    },
+    {
+      "code": "A9 D0",
+      "offset": "44BE",
+      "desc": "Date name loading",
+      "debug": false
+    },
+
+
+    {
+      "code": "A9 0F",
+      "offset": "2361",
+      "desc": "Item/Gift width in list"
+    },
+    {
+      "code": "A9 0F",
+      "offset": "28F9",
+      "desc": "Gift width in box"
+    },
+    {
+      "code": "A9 0F",
+      "offset": "28EC",
+      "desc": "Item width in box"
+    },
+    {
+      "code": "A9 20",
+      "offset": "22F5",
+      "desc": "Use/Cancel width"
+    },
+    {
+      "code": "A9 20",
+      "offset": "22B7",
+      "desc": "Discard width"
+    },
+    {
+      "code": "A9 02",
+      "offset": "10A0A",
+      "desc": "Date line width doubled to 26"
+    },
+    {
+      "code": "C6 0D 46 00",
+      "offset": "7361",
+      "desc": "Item price"
+    },
+
+
+
+
+    {
+      "code": "",
+      "offset": "40380",
+      "desc": "Status Icon x2",
+      "file": true
+    },
+    {
+      "code": "",
+      "offset": "40300",
+      "desc": "Status Icon Down",
+      "file": true
+    },
+
+
+
+
+    {
+      "code": "",
+      "offset": "118000",
+      "desc": "Score screen",
+      "file": true
+    },
+    {
+      "code": "00 80 D1",
+      "orig": "C2 8A CB",
+      "offset": "40186",
+      "desc": "Score screen"
+    },
+    {
+      "code": "",
+      "offset": "120000",
+      "desc": "Score screen tile map",
+      "file": true
+    },
+    {
+      "code": "00 00 D2",
+      "orig": "64 C0 CB",
+      "offset": "40195",
+      "desc": "Score screen tile map"
     }
     
-
   ]
 }

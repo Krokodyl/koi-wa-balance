@@ -50,12 +50,50 @@ public class ImageReader {
         DataWriter.saveData(outputFile, compressedData);
     }
 
+    public void generateSpriteScoreScreen() throws IOException {
+        generateSpriteDataFromImage(
+                "src/main/resources/sprites/score.png",
+                "src/main/resources/gen/sprite-uncompressed.data",
+                new Palette4bpp("/palettes/score.png"),
+                4
+        );
+        String uncomp = "src/main/resources/gen/sprite-uncompressed.data";
+        String outputFile = "src/main/resources/data/118000.data";
+        LzCompressor compressor = new LzCompressor();
+        byte[] compressedData = compressor.compress(Files.readAllBytes(new File(uncomp).toPath()));
+        DataWriter.saveData(outputFile, compressedData);
+    }
+
+    public void generateScoreTilemap() throws IOException {
+        String uncomp = "src/main/resources/tile-maps/score.data";
+        String outputFile = "src/main/resources/data/120000.data";
+        LzCompressor compressor = new LzCompressor();
+        byte[] compressedData = compressor.compress(Files.readAllBytes(new File(uncomp).toPath()));
+        DataWriter.saveData(outputFile, compressedData);
+    }
+
     public void generateTileMapTitleScreen() throws IOException {
         String uncomp = "src/main/resources/tile-maps/title-screen-01.data";
         String outputFile = "src/main/resources/data/110000.data";
         LzCompressor compressor = new LzCompressor();
         byte[] compressedData = compressor.compress(Files.readAllBytes(new File(uncomp).toPath()));
         DataWriter.saveData(outputFile, compressedData);
+    }
+
+    public void generateSpriteStatusScreen() throws IOException {
+        String s = generateSpriteDataFromImage(
+                "src/main/resources/images/status/status1.png",
+                "src/main/resources/data/40380.data",
+                new Palette2bpp("/palettes/status.png"),
+                2
+        );
+        s = generateSpriteDataFromImage(
+                "src/main/resources/images/status/status-down.png",
+                "src/main/resources/data/40300.data",
+                new Palette2bpp("/palettes/status.png"),
+                2
+        );
+        System.out.println(s);
     }
 
     private static String generateSpriteDataFromImage(String image, String output, Palette palette, int bpp) throws IOException {

@@ -75,7 +75,7 @@ public class DataWriter {
         for (PointerData p : table.getDataEng()) {
             //System.out.println(p);
             for (Integer offset : p.getOffsets()) {
-                data[offset] = (byte) (p.getValue() % 256);
+                data[offset] = (byte) ((p.getValue() % 256) & 0xFF);
                 data[offset + 1] = (byte) (p.getValue() / 256);
             }
             int offsetData = p.getOffsetData();

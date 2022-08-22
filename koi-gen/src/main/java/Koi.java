@@ -1,11 +1,14 @@
 import entities.*;
 import services.*;
+import services.lz.LzDecompressor;
 import services.text.Translator;
 
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
+
+import static services.Utils.x;
 
 public class Koi {
 
@@ -40,6 +43,13 @@ public class Koi {
             //DataReader.printTable(table, japanese);
             data = DataWriter.writeEnglish(table, data);
         }
+
+
+        try {
+            imageReader.generateSpriteStatusScreen();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
         
         spriteWriter.writeLatinCharacterSprites(alphabetImages, data);
 
@@ -52,14 +62,28 @@ public class Koi {
 */
         
         
-        /*try {
-            imageReader.generateSpriteTitleScreen();
-            imageReader.generateTileMapTitleScreen();
+        try {
+            //imageReader.generateSpriteTitleScreen();
+            //imageReader.generateTileMapTitleScreen();
+            imageReader.generateSpriteScoreScreen();
+            imageReader.generateScoreTilemap();
         } catch (IOException e) {
             e.printStackTrace();
-        }*/
+        }
 
+
+        /*LzDecompressor decomp = new LzDecompressor();
+        decomp.decompressData(data, x("BC064"));*/
+        
         DataWriter.writeCodePatches(JsonLoader.loadCodePatches(), data, false);
+
+        int count = 1;
+        for (String english : translator.getAllPrintedEnglish()) {
+            if (english.length()==4)
+            System.out.printf("%d\t%s\n",count++,english);
+        }
+        System.out.println(translator.getAllPrintedEnglish().size());
+
 
         DataWriter.saveData(config.getRomOutput(), data);
     }

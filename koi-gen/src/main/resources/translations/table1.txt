@@ -94,7 +94,7 @@ VALUE=3a6e
 OFFSETDATA=23a6e
 DATA=024e 02cb ff 02d4 019c 05 023f 020d 027a ff 7c 0176 74 7c 027a 05 b1 a7 d3 01a5 ff f1 f2 016e 05 f2 02fe f6 05 ff 7b 7c ff 78 77 ff 7c 73 05 01f8 0162 05 ff 64 69 4a 05 0209 0137 05 ff aa c8 b4 e0 ac 05 00
 JAP=蝾野 夕香{05}誕生日 9月19日{05}おとめ座 AB型{05}BWH{05} 89 54 90{05}職桊{05} デパガ{05}性格{05} アンニュイ{05}{EL}
-ENG=Yuko Eno{NL}Born Sep. 19{NL}Virgo  Blood:AB{NL}BWH{NL} 89 54 90{NL}Work{NL} Clerk{NL}Personality{NL} Melancholic{EL}
+ENG=Yuka Eno{NL}Born Sep. 19{NL}Virgo  Blood:AB{NL}BWH{NL} 89 54 90{NL}Work{NL} Clerk{NL}Personality{NL} Melancholic{EL}
 
 OFFSET=2006c
 VALUE=3ab8
@@ -107,7 +107,7 @@ OFFSET=2006e
 VALUE=3b16
 OFFSETDATA=23b16
 DATA=02b6 0275 ff 0206 02ae 05 023f 020d 027a ff 7b 0176 74 73 027a 05 97 97 01a5 ff 73 016e 05 0193 8d b3 d5 bb 05 ff aa ac 98 f9 be da 8e 05 ff b3 c9 65 d5 0193 8d 05 0271 0150 05 ff de e5 d6 e5 44 dc e5 66 05 01e7 02dc bb 02bd 05 ff 98 71 e5 a2 021d 01cd 00
-JAP=堀内 瑞秸{05}誕生日 8月10日{05}しし座 0型{05}好きなもの{05} アイス、ミルク{05} なんでも好き{05}特技{05} ローラーブレード{05}将来の萝{05} スポーツ選手{EL}
+JAP=堀内 瑞穗{05}誕生日 8月10日{05}しし座 0型{05}好きなもの{05} アイス、ミルク{05} なんでも好き{05}特技{05} ローラーブレード{05}将来の萝{05} スポーツ選手{EL}
 ENG=Mizuki Horiuchi{NL}Born Aug. 10{NL}Leo     Blood:O{NL}Likes{NL} Ice cream{NL} What you like{NL}Skill{NL} Roller blade{NL}Wants to be{NL} Athlete{EL}
 
 OFFSET=20070

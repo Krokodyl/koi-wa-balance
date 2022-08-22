@@ -1,3 +1,17 @@
+Text box 26 chars
+
+Gift battle item name : 14 chars
+########### END SCREEN ########
+
+結果を発表します
+Result Announcement
+
+BC064	tile map
+
+CB:8AC2	
+
+CB:C064
+
 ########### CHARACTER LOADING ########
 $C0/89DC
 

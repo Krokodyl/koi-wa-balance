@@ -6,6 +6,9 @@ import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
+import static services.Utils.h;
+import static services.Utils.h4;
+
 public class PointerData {
 
     private int value;
@@ -104,7 +107,7 @@ public class PointerData {
         if (menuData!=null)
             for (String a:menuData) t = t+a+" ";
 
-        return "Pointer{" + "offsets=" + Arrays.toString(offsets.stream().map(integer -> Integer.toHexString(integer)).collect(Collectors.toList()).toArray()) + ", value=" + Integer.toHexString(value) + ", offsetdata="+Integer.toHexString(offsetData)+ ", offsetMenudata="+Integer.toHexString(offsetMenuData)+", menudata=" + t + ", data=" + s + '}';
+        return "Pointer{" + "offsets=" + Arrays.toString(offsets.stream().map(integer -> h(integer)).collect(Collectors.toList()).toArray()) + ", value=" + h4(value) + ", offsetdata="+h(offsetData)+ ", offsetMenudata="+Integer.toHexString(offsetMenuData)+", menudata=" + t + ", data=" + s + '}';
     }
 
 

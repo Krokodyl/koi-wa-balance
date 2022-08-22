@@ -23,15 +23,15 @@ public class SpriteWriter {
         List<MainSprite> sprites = new ArrayList<>();
         MainSprite mainSprite = new MainSprite(offset);
         for (BufferedImage image : images) {
+            System.out.println("Sprite "+Integer.toHexString(code++)+" "+Integer.toHexString(offset));
             if (mainSprite.isFull()) {
                 sprites.add(mainSprite);
-                //System.out.println("Sprite "+Integer.toHexString(code++)+" "+Integer.toHexString(offset));
                 offset += Integer.parseInt("20", 16);
                 /*while (Constants.SKIPPED_CHARACTER_CODE.contains(code)) {
                     offset += Integer.parseInt("20", 16);
                     code++;
                 }*/
-                //System.out.println(count+" "+Integer.toHexString(offset));
+                System.out.println(count+" "+Integer.toHexString(offset));
                 count++;
                 mainSprite = new MainSprite(offset);
             }
@@ -41,7 +41,7 @@ public class SpriteWriter {
         }
         if (!sprites.contains(mainSprite)) {
             sprites.add(mainSprite);
-            //System.out.println("Sprite "+Integer.toHexString(code++)+" "+Integer.toHexString(offset));
+            System.out.println("Sprite "+Integer.toHexString(code++)+" "+Integer.toHexString(offset));
         }
         for (MainSprite sprite : sprites) {
             BufferedImage imageSide2 = sprite.getImage(CharSide.TWO);
@@ -85,6 +85,7 @@ public class SpriteWriter {
     }
 
     public static byte[] writeImagesAtOffset(BufferedImage imageSide1, BufferedImage imageSide2, int offset, byte[] data) {
+        
         PixelLine[] lines = new PixelLine[8];
         for (int y = 0; y < imageSide1.getHeight(); y++) {
             PixelLine pixelLine = new PixelLine();
@@ -112,14 +113,31 @@ public class SpriteWriter {
     }
 
     public void writeLatinCharacterSprites(List<BufferedImage> alphabetImages, byte[] data) {
+        System.out.println("Main Upper");
         writeMainSprites(Constants.OFFSET_UPPERCASE_MAINSPRITES, alphabetImages, data);
         List<BufferedImage> readAlphabetSideImages = DataReader.readAlphabetSideImages("uppercase/uppercase", Constants.COUNT_UPPERCASE);
+        System.out.println("Side Upper");
         writeMainSprites(Constants.OFFSET_UPPERCASE_SIDESPRITES, readAlphabetSideImages, data);
 
         alphabetImages = DataReader.readAlphabetMainImages("lowercase/lowercase", Constants.COUNT_LOWERCASE);
+        System.out.println("Main Lower");
         writeMainSprites(Constants.OFFSET_LOWERCASE_MAINSPRITES, alphabetImages, data);
         readAlphabetSideImages = DataReader.readAlphabetSideImages("lowercase/lowercase", Constants.COUNT_LOWERCASE);
+        System.out.println("Side Lower");
         writeMainSprites(Constants.OFFSET_LOWERCASE_SIDESPRITES, readAlphabetSideImages, data);
+
+        alphabetImages = DataReader.readAlphabetMainImages("digits/lowercase", Constants.COUNT_DIGITS);
+        System.out.println("Main Digits");
+        writeMainSprites(Constants.OFFSET_DIGITS_MAINSPRITES, alphabetImages, data);
+        //readAlphabetSideImages = DataReader.readAlphabetSideImages("digits/lowercase", Constants.COUNT_DIGITS);
+        System.out.println("Side Digits");
+        //writeMainSprites(Constants.OFFSET_DIGITS_SIDESPRITES, readAlphabetSideImages, data);
+
+        /*alphabetImages = DataReader.readAlphabetMainImages("status/status", 1);
+        System.out.println("Main Digits");
+        writeMainSprites(Constants.OFFSET_STATUS_MAINSPRITES, alphabetImages, data);
+        //readAlphabetSideImages = DataReader.readAlphabetSideImages("digits/lowercase", Constants.COUNT_DIGITS);
+        System.out.println("Side Digits");*/
 
     }
 }
