@@ -1,6 +1,8 @@
 Text box 26 chars
 
 Gift battle item name : 14 chars
+Gift battle full width: 30 chars
+
 ########### END SCREEN ########
 
 結果を発表します
