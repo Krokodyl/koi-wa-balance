@@ -8,6 +8,7 @@ import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
 
+import static services.Utils.h;
 import static services.Utils.x;
 
 public class Koi {
@@ -62,14 +63,14 @@ public class Koi {
 */
         
         
-        try {
+        /*try {
             //imageReader.generateSpriteTitleScreen();
             //imageReader.generateTileMapTitleScreen();
-            imageReader.generateSpriteScoreScreen();
-            imageReader.generateScoreTilemap();
+            //imageReader.generateSpriteScoreScreen();
+            //imageReader.generateScoreTilemap();
         } catch (IOException e) {
             e.printStackTrace();
-        }
+        }*/
 
 
         /*LzDecompressor decomp = new LzDecompressor();
@@ -78,11 +79,32 @@ public class Koi {
         DataWriter.writeCodePatches(JsonLoader.loadCodePatches(), data, false);
 
         int count = 1;
-        for (String english : translator.getAllPrintedEnglish()) {
-            if (english.length()==4)
-            System.out.printf("%d\t%s\n",count++,english);
+        List<String> allPrintedEnglish = translator.getAllPrintedEnglish();
+        Collections.sort(allPrintedEnglish);
+        for (String english : allPrintedEnglish) {
+            if (english.length()==4 || english.contains("'")) {
+                try {
+                    x(english);
+                    System.out.printf("%d\t%s\n",count++,english);
+                } catch (NumberFormatException e) {
+                }
+            }
+            if (english.contains("'")) {
+                try {
+                    System.out.printf("%d\t%s\n",count++,english);
+                } catch (NumberFormatException e) {
+                }
+            }
+            
         }
-        System.out.println(translator.getAllPrintedEnglish().size());
+        System.out.println(allPrintedEnglish.size());
+
+        for (Translation translation : translator.getTranslations()) {
+            String s = translation.getJapanese();
+            if (s.indexOf("{EL}")!=s.lastIndexOf("{EL}")) {
+                System.out.println(h(translation.getOffsetData()));
+            }
+        }
 
 
         DataWriter.saveData(config.getRomOutput(), data);

@@ -15,6 +15,10 @@ public class Translator {
     Map<Integer, Translation> translationMap = new HashMap<>();
 
     boolean replaceMissing = false;
+    
+    public Collection<Translation> getTranslations() {
+        return translationMap.values();
+    }
 
     public void loadTranslationFile(String name) {
         BufferedReader br = new BufferedReader(

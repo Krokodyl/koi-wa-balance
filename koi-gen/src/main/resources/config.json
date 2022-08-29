@@ -215,6 +215,12 @@
       "desc": "Status Icon Down",
       "file": true
     },
+    {
+      "code": "",
+      "offset": "403C0",
+      "desc": "Status Icon Xmas",
+      "file": true
+    },
 
 
 
@@ -242,6 +248,149 @@
       "orig": "64 C0 CB",
       "offset": "40195",
       "desc": "Score screen tile map"
+    },
+
+
+    {
+      "code": "A9 1E",
+      "orig": "A9 14",
+      "offset": "149C7",
+      "desc": "Input screen"
+    },
+    {
+      "code": "A9 1E",
+      "orig": "A9 14",
+      "offset": "149F8",
+      "desc": "Input screen"
+    },
+    {
+      "code": "A9 1E",
+      "orig": "A9 14",
+      "offset": "14A29",
+      "desc": "Input screen"
+    },
+    {
+      "code": "A9 1E",
+      "orig": "A9 14",
+      "offset": "14A5A",
+      "desc": "Input screen"
+    },
+    {
+      "code": "A9 1E",
+      "orig": "A9 14",
+      "offset": "148D2",
+      "desc": "Input screen"
+    },
+    {
+      "code": "A9 1E",
+      "orig": "A9 14",
+      "offset": "14903",
+      "desc": "Input screen"
+    },
+    {
+      "code": "A9 1E",
+      "orig": "A9 14",
+      "offset": "14965",
+      "desc": "Input screen"
+    },
+    {
+      "code": "A9 1E",
+      "orig": "A9 0A",
+      "offset": "14996",
+      "desc": "Input screen"
+    },
+
+    {
+      "code": "40 FF 41 FF 42 FF 43 FF 44 FF 45 FF 46 FF 47 FF 48 FF 49 FF B5 A3 AD 9F 01 BE F9 05 8C 98 BC 4A FF 4B FF 4C FF 4D FF 4E FF 4F FF 50 FF 51 FF 52 FF 53 FF 02 57 4B 8B 8B CD 9F F0 05 AA AC 54 FF 55 FF 56 FF 57 FF 58 FF 56 FF FF FF FF FF FF FF FF FF F0 03 01 0B 00 13 81 05 AB DB 8D FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 90 01 28 4B B3 8F B3 CD 9F F0 03 FF FF FF FF FF FF FF FF FF FF",
+      "orig": "",
+      "offset": "21686",
+      "desc": "Input screen"
+    },
+
+    {
+      "code": "A9 D3 8D 52 00 A7 50 97 58 6B",
+      "orig": "",
+      "offset": "1000A0",
+      "call": "22 A0 00 D0",
+      "feature": "Input screen"
+    },
+    {
+      "code": "22 A0 00 D0",
+      "orig": "",
+      "offset": "136C1",
+      "feature": "Input screen"
+    },
+
+
+
+    {
+      "code": "A9 05",
+      "orig": "",
+      "offset": "1417B",
+      "feature": "Input screen"
+    },
+    {
+      "code": "A9 0B",
+      "orig": "",
+      "offset": "141F1",
+      "feature": "Input screen"
+    },
+    {
+      "code": "A9 0D",
+      "orig": "",
+      "offset": "14510",
+      "feature": "Input screen"
+    },
+    {
+      "code": "A9 20",
+      "orig": "",
+      "offset": "13989",
+      "feature": "Input screen"
+    },
+    {
+      "code": "A9 0F",
+      "orig": "",
+      "offset": "13F5A",
+      "feature": "AI names (15 chars max)"
+    },
+    {
+      "code": "A9 0F",
+      "orig": "",
+      "offset": "13FDE",
+      "feature": "AI names (15 chars max)"
+    },
+    {
+      "code": "A9 0F",
+      "orig": "",
+      "offset": "14020",
+      "feature": "AI names (15 chars max)"
+    },
+    {
+      "code": "A9 0F",
+      "orig": "",
+      "offset": "13F9C",
+      "feature": "AI names (15 chars max)"
+    },
+    {
+      "code": "A9 D0 8D 52 00 A0 00 00 AE 14 00 6B",
+      "orig": "",
+      "offset": "100100",
+      "call": "22 00 01 D0",
+      "feature": "Input screen"
+    },
+    {
+      "code": "22 00 01 D0",
+      "orig": "",
+      "offset": "12E5E",
+      "feature": "Input screen"
+    },
+
+
+    {
+      "code": "A9 D0",
+      "orig": "A9 C2",
+      "offset": "2815",
+      "feature": "Bella name loading"
     }
     
   ]
