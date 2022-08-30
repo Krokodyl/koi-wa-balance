@@ -2061,7 +2061,7 @@ VALUE=1941
 OFFSETDATA=21941
 DATA=01BF CD A5 DB 6D DC 5A C8 A6 CB 01D9 97 AB CD A5 05 9D BB 01D8 95 CB 8D 9D AD BD 99 F0 0B 0298 59 74 0204 01C7 BB 6D DC AC C0 E5 4B 0218 0198 65 05 64 E5 A6 0247 BB 8A CC 6D DA 4B 018B 0198 65 99 F0 0B 02B0 0192 8C E5 CB 011F 99 A7 F9 6D DC 5A C8 A6 4B 05 025A 43 C9 B5 BB CD 8B D9 BD 99 F0 0B BB 9B 9F 6D DC 5A C8 A6 81 F2 65 02C7 9B BD 99 F0 0B D5 CD A5 DB 6D DC 5A C8 A6 BB 0216 02C2 81 05 F3 CB 011F 97 B3 4B D7 02B0 0192 8C E5 65 017C DD BD 99 F0 0B 6D DC 5A C8 A6 CB 01D9 97 01D4 C7 CD 9F D7 05 7D CB 011F 97 A5 8F 5F 95 AD F0 0B D5 A1 DF C9 F9 01D8 95 4B 0232 AD 02B0 4B 01E5 A1 65 99 F0 05 0110 8D 02A6 91 81 018B 0198 BB 01E5 A1 A7 97 BD 99 F0 0B 01E2 BB 01B3 81 01E5 01C7 B5 A9 A3 D9 F9 02A0 91 9F 01C7 81 05 BC CC 6D BB 67 93 8B B5 A7 41 95 DD BD 99 F0 0B 01D8 95 81 023E B3 DB 0207 0243 5F 91 65 81 B3 8F 05 01E2 BB 01B3 BB 0193 BF 4B 0238 8D 8F 8B 8B C7 D9 BD 99 F0 0B BD 9F 6D DC 5A C8 A6 BB 8F BF 019D C7 9B B5 C5 CD A5 05 48 E5 B2 98 4B A3 8F 93 A7 4B AB D9 BD 99 F0 00
 JPN=持ってるプレゼントを出しあって{NL}その垂さをきそいます。{0b}必ず1人者のプレイヤーが先攻で{NL}デート中のカップルが後攻です。{0b}方向キーを押すと、プレゼントが{NL}天びんにのっかります。{0b}のせたプレゼントはBで戻せます。{0b}もってるプレゼントの説明は{NL}Yを押しながら方向キーで見れます。{0b}プレゼントを出し終わったら{NL}Xを押してください。{0b}もちろん、垂さが多い方が勝ちです。{NL}引き分けは後攻の勝ちとします。{0b}女の子は勝者にうつり、負けた者は{NL}マップのどこかにとばされます。{0b}垂さは単なる数値だけではなく{NL}女の子の好みが大きくかかわります。{0b}またプレゼントのくみ合わせによって{NL}ボーナスがつくことがあります。{EL}
-ENG=Place presents on the balance{NL}to try to tip it to your side.{WP}The single player goes first,{NL}the dating couple goes second.{WP}Press the d-pad and the gift{NL}will be placed on the balance.{WP}You can take back the gift{NL}you put on with B.{WP}See descriptions of your gifts{NL}by holding Y and the d-pad.{WP}Press X when you{'r}e done{NL}placing presents.{WP}The tipping side wins.{NL}The single player wins ties.{WP}The girl goes to the winner,{NL}the loser warps on the map.{WP}The balance is about numbers{NL}and also a girl{'s} preference.{WP}Some combinations of presents{NL}grant set bonuses.{WP}{EL}
+ENG=Place presents on the balance{NL}to try to tip it to your side.{WP}The single player goes first,{NL}the dating couple goes second.{WP}Press the d-pad and the gift{NL}will be placed on the balance.{WP}You can take back the gift{NL}you put on with B.{WP}See descriptions of your gifts{NL}by holding Y and the d-pad.{WP}Press X when you{'r}e done{NL}placing presents.{WP}The tipping side wins.{NL}The dating player wins ties.{WP}The girl goes to the winner,{NL}the loser warps on the map.{WP}The balance is about numbers{NL}and also a girl{'s} preference.{WP}Some combinations of presents{NL}grant set bonuses.{WP}{EL}
 
 OFFSET=2045E
 OFFSET=20460
@@ -2512,7 +2512,7 @@ VALUE=1ef3
 OFFSETDATA=21EF3
 DATA=BC CC 6D 01F3 BB 01E2 BB 01B3 BB 01DE 87 AD 8D F9 05 64 E5 A6 98 71 CC A6 BD 65 A3 DD A5 CD A5 AB 51 A5 05 D5 D7 AF DB 71 AC C8 A6 CB 8D 9D A9 50 E5 D0 65 99 F0 0B 012A 02C3 01F3 B5 01E2 BB 01B3 4B 76 0204 0184 C7 DD BD 99 F0 05 98 DE CC A6 CB 012E 97 A5 01D9 9F 0207 01BC BB 02A6 5F 91 05 0202 C9 65 AD 8D 028F 01E2 023A BB 01DE BD 65 019A 8D BD 99 F0 0B 028F 01E2 BB 01DE BD 65 019A 8F A7 02F7 6C CD 9F D9 01B6 BD D7 B3 05 8F A5 D5 C5 AD 02F8 02EC DD A5 CD A5 89 97 AD 64 E5 A6 98 05 71 CC A6 CB 0185 AD BD 99 BB 65 F9 9D 93 BD 65 02EC DD A5 05 019A CD A5 AB 51 A5 0122 95 AD F0 0B 0231 BB 6D DC AC C0 E5 8B D7 BB AA AC A4 D0 0198 0172 C1 05 6D DC 5A C8 A6 40 A6 DA CB 0214 D9 B7 91 A5 05 64 E5 A6 98 71 CC A6 BD 65 02EC DD A5 AD 8F A7 02F7 6C CD 05 9F D9 A7 BD D7 B3 8F A5 D5 C5 AD 02F8 64 E5 A6 012A 02C3 4B 05 65 A5 F9 71 AC C8 A6 CB 0270 DB 01BA 4B 65 8D BD 99 F0 0B 00
 JPN=マップ上の女の子の所へいき、{NL}デートスポットまでつれてってあげて{NL}もらえるポイントをきそうゲームです。{0b}画面上に女の子が3人現われます。{NL}スロットを回して出た数字の分だけ{NL}進んでいき彼女連の所まで行きます。{0b}彼女の所まで行くと(ぴったり止まらな{NL}くてもよい)漣れてってほしいデートス{NL}ポットを言いますので、そこまで漣れて{NL}行ってあげて下さい。{0b}他のプレイヤーからのアイテム攻撃や{NL}プレゼントバトルを切りぬけて{NL}デートスポットまで漣れていくと(ぴっ{NL}たりとまらなくてもよい)デート画面が{NL}でて、ポイントを得る事ができます。{0b}{EL}
-ENG=Go to a girl on the map,{NL}take her on a date and{NL}win points.{WP}3 girls will be on the map.{NL}Turn the roulette and move{NL}as much as the number that{NL}comes out to get to them.{WP}When you reach a girl{NL}(you don{'t} have to stop{NL}exactly), she will tell you{NL}the date spot that you must{NL}take her to.{WP}If you survive item attacks{NL}and gift battles with other{NL}players and get to the date{NL}spot, the date occurs and{NL}you get points.{WP}{EL}
+ENG=Go to a girl on the map,{NL}take her on a date and{NL}win points.{WP}3 girls will be on the map.{NL}Spin the roulette and move{NL}as much as the number that{NL}comes out to get to them.{WP}When you reach a girl{NL}(you don{'t} have to stop{NL}exactly), she will tell you{NL}the date spot that you must{NL}take her to.{WP}If you survive item attacks{NL}and gift battles with other{NL}players and get to the date{NL}spot, the date occurs and{NL}you get points.{WP}{EL}
 
 OFFSET=204F0
 VALUE=2026
@@ -2554,7 +2554,7 @@ VALUE=244d
 OFFSETDATA=2244D
 DATA=84 E6 E5 DA 66 012A 02C3 65 BB 8C E5 0223 01A9 05 FF F1 FF 0173 0255 05 FF F2 FF 8C CE C8 9A DA 05 FF 7D FF D5 CD A5 DB 6D DC 5A C8 A6 CB BF DB 05 FF F3 FF 02C6 0258 0244 CB BF DB 02F7 64 E5 A6 0247 BB BF 02F8 05 FF F4 F5 011F 97 B3 4B D7 01D6 01BC 05 FF FF FF FF FF FF FF 012A 02C3 CB BF DB 0B 6D DC 5A C8 A6 40 A6 DA 05 FF 01D6 01BC FF 6D DC 5A C8 A6 CB 01D9 99 05 FF F2 FF FF 01D9 97 9F 6D DC 5A C8 A6 CB 02C7 99 05 FF 7D FF FF 6D DC 5A C8 A6 46 CC A6 B1 C7 D9 05 FF F3 011F 97 B3 4B D7 01D6 01BC 05 FF FF FF FF FF FF 6D DC 5A C8 A6 BB 0216 02C2 0B B8 E5 D0 027B 02E6 012A 02C3 05 FF F1 FF 02A7 01BC 0173 0255 05 FF F2 FF 40 CC 8E 98 6F E5 98 05 FF F3 FF D4 E5 66 9A DC 8E A6 05 FF 9A DC 8E A6 FF D4 E5 66 9A DC 8E A6 05 FF 98 9E E5 A6 FF 027B 02E6 01D4 C7 D9 00
 JPN=フィールド画面でのキー操作{NL} A 決定{NL} B キャンセル{NL} X もってるプレゼントをみる{NL} Y 目的地をみる(デート中のみ){NL} LR押しながら十字{NL}       画面をみる{0b}プレゼントバトル{NL} 十字 プレゼントを出す{NL} B  出したプレゼントを戻す{NL} X  プレゼントベットおわり{NL} Y押しながら十字{NL}      プレゼントの説明{0b}ネーム入力画面{NL} A 文字決定{NL} B バックスペース{NL} Y モードセレクト{NL} セレクト モードセレクト{NL} スタート 入力終わり{EL}
-ENG=Controls on the map{NL} A: Ok{NL} B: Cancel{NL} X: View gifts you have{NL} Y: See date destination{NL} LR + d-pad: Look around{WP}Gift battle controls{NL} A: Place a gift{NL} B: Take back a gift{NL} X: End gift battle{NL} Y + d-pad:{NL} See gift descriptions{EL}
+ENG=Controls on the map{NL} A: Ok{NL} B: Cancel{NL} X: View gifts you have{NL} Y: See date destination{NL} LR + d-pad: Look around{WP}Gift battle controls{NL} D-pad: Place a gift{NL} B: Take back a gift{NL} X: End gift battle{NL} Y + d-pad:{NL} See gift descriptions{EL}
 
 OFFSET=204FC
 VALUE=2559
@@ -5585,7 +5585,7 @@ VALUE=4ffa
 OFFSETDATA=24FFA
 DATA=AB DB 8D C1 99 8F B3 D9 BD 99 F0 00
 JPN=あるきやすくなります。{EL}
-ENG=Makes you move faster.{NL}(Move +1){NL}Play again.
+ENG=Makes you move faster.{NL}(Move +1){NL}Play again.{EL}
 
 OFFSET=20942
 VALUE=5006
