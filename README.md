@@ -3,8 +3,21 @@
 English translation for the 1996 Satellaview (an extension of the Super Famicom/Super Nintendo only released in Japan) game Koi wa Balance: Tatoeba K-kun no Tabou na Ichinichi Hen<br/>
 The Japanese title (恋はバランス たとえばK君の多忙な一日編) roughly translates to "Love is balance - for example, K's busy day".<br/>
 
-This is a party for up to 4 players in which you play as one of four brothers who are competing in a challenge set up by their dying grand-father, head of the family business. They have to roam the city, pick up girls and take them on dates. The players who gets the most kisses by the end of the game is the new heir of the company.
+This is a party game for up to 4 players in which you play as one of four brothers who are competing in a challenge set up by their dying grand-father, head of the family business. They have to roam the city, pick up girls and take them on dates. The players who gets the most kisses by the end of the game is the new heir of the company.
 Despite this weird premise, the game has no sexual content beyond a few innuendos. The main screen says "players 6 and older".
+
+## English Patch
+
+## Screenshots
+
+## References
+
+Japanese | Comment
+------------ | -------------
+義理 ( ぎり _giri_ ) | [Giri](https://en.wikipedia.org/wiki/Giri_(Japanese)) a Japanese value roughly corresponding to "duty", "obligation", or even "burden of obligation" in English.<br/>Six items in the game are _giris_, I translated it as _tax_ for simplicity's sake. Here are their true names.<br/>ぜんりょくぎり (Best effort giri) = Gift Tax<br/>みだれぎり (Disorder giri) = Item tax<br/>だいかいてんぎり (Revolution giri) = Moving Tax<br/>ハヤブサぎり (Hayabusa giri) = Travel Tax<br/>ベロロンぎり (Berolon giri) = Sales Tax<br/>ヂャンプぎり (Djanpu giri) = Wealth Tax
+スミップ ( _Sumippu_ ) | [SMAP](https://en.wikipedia.org/wiki/SMAP) was a Japanese boy band created in 1988. The name stands for "Sports Music Assemble People". After making their debut in 1991, the group took the Japanese entertainment industry by storm, becoming one of the most successful boy bands in Asia. The group is often referred to as a "national treasure" and a "fortune and property of the country" in Japan.<br/>Some dialogs in the game reference the band or the members.
+ライブハウス （和製英語 _live-house_ ）| One of the dating spot in the game is a [Live House](https://en.wikipedia.org/wiki/Live_house). A live house is a Japanese live music club – a music venue featuring live music.
+
 
 ## How to play
 
@@ -35,7 +48,7 @@ All players are "single" at the beginning.<br/>
 To pick up a girl, you don't need to land on the same space, you can just walk over that space.<br/>
 When you do, the girl will tell you where she wants you to take her.<br/>
 The name of your date appears under yours indicating that you are "dating" and no longer "single". (Some items and events have different effects depending on that distinction)<br/>
-Take your date to her desired location (You can just walk over it) and you'll score a number of hearts.
+Take your date to her desired location (You can just walk over it) and you'll score a number of kisses/hearts.
 After each date, a new girl appears on the board.
 
 Portrait | Sprite | Name | Date
@@ -59,25 +72,55 @@ Bella is a special girl that sometimes appears in place of another one when you 
 If you stay idle for 20 seconds on the title screen, you can watch a slideshow with information about each girl.<br/>
 ![](screenshots/girls/slideshow.gif)
 
+## Gift Battle
+
+There is an explanation, in game, the first time you get a gift battle.
+
+When a single player and a dating player land on the same space, a gift battle starts.
+Players place up to 4 of their gifts on a balance to tip it in their favor and win the girl.
+The single player goes first, the dating couple goes second.
+Press the d-pad and the gift will be placed on the balance.
+You can take back the gift you put on with B.
+See descriptions of your gifts by holding Y and the d-pad.
+Press X when you're done placing presents.
+The tipping side wins. The dating player wins ties.
+The girl goes to the winner, the loser is warped randomly on the map.
+The balance is about numbers and also a girl's preference.
+Some combinations of presents grant set bonuses.
+
+
 ## Game End
 
 The game ends when all 13 girls have been taken on a date.
 
+## Controls
+
+Buttons     | On the board          | In a gift battle
+----------- | -------------         | ------------- |
+D-pad       | Move                  | Place gifts
+A			| Confirm<br/>(Use/Discard items)   | 
+B			| Cancel                | Take back gifts
+X			| View your gifts       | Confirm placed gifts
+Y			| See your current date destination<br/>(only when dating) | 
+Y + D-pad   |                       | See gift descriptions
+R/L + D-pad	| Look around the map   |
+
+
 # Status
 
-Status | Effect
------------- | ------------- |
-Sore feet			|Move -1
-Fast				|Move +1
-Tired				|Can only move 1 space.
-On a break			|Skips your turn
-Confused			|Loses control
-Broke				|No gift from P space.
-Silenced			|Can't use items
-Christmas			|Extra kisses on a date
-Double movement		|Move x2
-Invincible			|Cancels one item attack.
-Protection			|Dodges one battle
+Status | Icon | Effect
+------------ | ------------- | ------------- |
+Sore feet			| |Move -1<br/>(Roulette turns red)
+Fast				| |Move +1<br/>(Roulette turns green)
+Tired				| |Can only move 1 space.
+On a break			| |Skips your turn
+Confused			| |Loses control
+Broke				|![](screenshots/status/01.png)|No gift from P space.
+Silenced			|![](screenshots/status/05.png)|Can't use items
+Christmas			|![](screenshots/status/04.png)|Double kisses on the next date<br/>(only lasts a couple of turns<br/>so better right before the date)
+Double movement		|![](screenshots/status/03.png)|Move x2
+Invincible			| |Cancels the next item attack
+Protection			|![](screenshots/status/02.png)|Dodges the next battle
 
 # Items
 
@@ -145,3 +188,7 @@ Test Item 2							|If anyone is reading this message, it's a bug. Please report 
 White Dragon 					|Trades this mahjong tile for an item. If you bring the three dragon tiles on a date... 
 Green Dragon 					|Trades this mahjong tile for an item. If you bring the three dragon tiles on a date... 
 Red Dragon 						|Trades this mahjong tile for an item. If you bring the three dragon tiles on a date... 
+
+* When you have the 3 dragon tiles and use one, with your date, you are automatically teleported to the destination and you get 3 bonus hearts.
+
+* The item spaces at the far north, east, south and west usually give better items.
