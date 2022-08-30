@@ -323,7 +323,7 @@ VALUE=3968
 OFFSETDATA=23968
 DATA=021C 0222 FF 0274 0296 05 023F 020D 027A FF 76 0176 76 027A 05 A9 B1 01A5 FF F1 016E 05 01F8 0162 05 FF 0127 01BA A5 A3 5F AD 05 0193 8D B3 D5 BB 05 FF 0117 012A 02F7 88 D6 E5 D5 BB 02F8 05 0209 0137 05 FF A6 DE AD FF 9B C7 0193 8D 05 00
 JPN=浅倉 奈美{NL}誕生日 3月3日{NL}うお座 A型{NL}職桊{NL} 家事てつだい{NL}好きなもの{NL} 映画(ホラーもの){NL}性格{NL} トロい せわ好き{NL}{EL}
-ENG=Nami Asakura{NL}Born Mar. 3{NL}Pisces      {NL}        Blood:A{NL}Work{NL} Housemaid{NL}Likes{NL} Armpit picture{NL}Personality{NL} A bit silly{EL}
+ENG=Nami Asakura{NL}Born Mar. 3{NL}Pisces      {NL}        Blood:A{NL}Work{NL} Housemaid{NL}Likes{NL} Horror movies{NL}Personality{NL} A bit silly{EL}
 
 OFFSET=20066
 VALUE=39bf
@@ -5151,21 +5151,21 @@ VALUE=4b4d
 OFFSETDATA=24B4D
 DATA=B1 9F BB 97 BF 45 8F DF 00
 JPN=おたのしみぶくろ{EL}
-ENG=Backpack 1{EL}
+ENG=Backpack{EL}
 
 OFFSET=208C6
 VALUE=4b56
 OFFSETDATA=24B56
 DATA=B1 9F BB 97 BF 45 8F DF 00
 JPN=おたのしみぶくろ{EL}
-ENG=Backpack 2{EL}
+ENG=Backpack{EL}
 
 OFFSET=208C8
 VALUE=4b5f
 OFFSETDATA=24B5F
 DATA=B1 9F BB 97 BF 45 8F DF 00
 JPN=おたのしみぶくろ{EL}
-ENG=Backpack 3{EL}
+ENG=Backpack{EL}
 
 OFFSET=208CA
 VALUE=4b68
