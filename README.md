@@ -1,12 +1,30 @@
 # Koi wa Balance - English
 
-English translation for the 1996 Satellaview (an extension of the Super Famicom/Super Nintendo only released in Japan) game Koi wa Balance: Tatoeba K-kun no Tabou na Ichinichi Hen<br/>
+English translation for the 1996 Satellaview (an extension of the Super Famicom/Super Nintendo only released in Japan) game **Koi wa Balance: Tatoeba K-kun no Tabou na Ichinichi Hen**.<br/>
 The Japanese title (恋はバランス たとえばK君の多忙な一日編) roughly translates to "Love is balance - for example, K's busy day".<br/>
+
+Sometimes referred as **Koi ha Balance - Battle of Lovers** (は is _ha_ when out of context but read as _wa_ as a particle).
 
 This is a party game for up to 4 players in which you play as one of four brothers who are competing in a challenge set up by their dying grand-father, head of the family business. They have to roam the city, pick up girls and take them on dates. The players who gets the most kisses by the end of the game is the new heir of the company.
 Despite this weird premise, the game has no sexual content beyond a few innuendos. The main screen says "players 6 and older".
 
 ## English Patch
+
+### Sept 2022 - First release 1.0 below.
+
+Patch file v1.0 is available here : [BS Koi ha Balance - Battle of Lovers - English 1.0.zip](/patch/BS%20Koi%20ha%20Balance%20-%20Battle%20of%20Lovers%20-%20English%201.0.zip)
+
+Also available on romhacking.net : TODO
+
+
+It applies to the following ROM :<br/>
+File: BS Koi ha Balance - Battle of Lovers (J)<br/>
+No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)<br/>
+File/ROM SHA-1: 6D687F7B6C7C82C479E52459B7C8E1C8955FC9F5<br/>
+File/ROM CRC32: 60293E16<br/>
+
+Japanese rom size : 1.0 Mb (1 048 576 bytes)<br/>
+Patched rom size : 2.0 Mb (2 097 152 bytes)
 
 ## Screenshots
 
