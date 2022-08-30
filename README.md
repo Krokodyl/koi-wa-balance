@@ -46,6 +46,9 @@ Japanese | English
 ![image 01](screenshots/japanese/17.png) | ![image 01](screenshots/english/17.png)
 ![image 01](screenshots/japanese/18.png) | ![image 01](screenshots/english/18.png)
 
+## Map
+
+![image 01](screenshots/map.png)
 
 ## References
 
