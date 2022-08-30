@@ -36,7 +36,11 @@ Japanese | Comment
 義理 ( ぎり _giri_ ) | [Giri](https://en.wikipedia.org/wiki/Giri_(Japanese)) a Japanese value roughly corresponding to "duty", "obligation", or even "burden of obligation" in English.<br/>Six items in the game are _giris_, I translated it as _tax_ for simplicity's sake. Here are their true names.<br/>ぜんりょくぎり (Best effort giri) = Gift Tax<br/>みだれぎり (Disorder giri) = Item tax<br/>だいかいてんぎり (Revolution giri) = Moving Tax<br/>ハヤブサぎり (Hayabusa giri) = Travel Tax<br/>ベロロンぎり (Berolon giri) = Sales Tax<br/>ヂャンプぎり (Djanpu giri) = Wealth Tax
 スミップ ( _Sumippu_ ) | [SMAP](https://en.wikipedia.org/wiki/SMAP) was a Japanese boy band created in 1988. The name stands for "Sports Music Assemble People". After making their debut in 1991, the group took the Japanese entertainment industry by storm, becoming one of the most successful boy bands in Asia. The group is often referred to as a "national treasure" and a "fortune and property of the country" in Japan.<br/>Some dialogs in the game reference the band or the members.
 ライブハウス （和製英語 _live-house_ ）| One of the dating spot in the game is a [Live House](https://en.wikipedia.org/wiki/Live_house). A live house is a Japanese live music club – a music venue featuring live music.
-
+たこやき ( _takoyaki_ ) | Takoyaki is a ball-shaped Japanese snack made of a wheat flour-based batter and cooked in a special molded pan.
+ヂューヨンダイ ( _Juyondai_ ) | Juyondai is a Japanese sake with a reputation for being rare and expensive.
+浦和レッドダイヤモンズ ( _Urawa Reddo Daiyamonzu_ ) | The Urawa Reds are a professional football club in the city of Saitama, part of the Greater Tokyo Area in Japan. The club plays in the J1 League, the top tier of football in the country. Its name comes from the former city of Urawa, now part of Saitama.
+誕生石 (たんじょうせき _tanjōseki_) | A birthstone (or birthday stone) is a gemstone, usually in the form of personal jewelry and most often in the form of a ring. Each stone is traditionally associated with various qualities that symbolize the month of birth in the Gregorian calendar.
+ワビ サビ( _wabi sabi_ ) | In traditional Japanese aesthetics, wabi-sabi (侘寂) is a world view centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is "imperfect, impermanent, and incomplete" in nature. It is prevalent throughout all forms of Japanese art. It is a concept derived from the Buddhist teaching of the three marks of existence (三法印, sanbōin), specifically impermanence (無常, mujō), suffering (苦, ku) and emptiness or absence of self-nature (空, kū).
 
 ## How to play
 
@@ -178,9 +182,9 @@ Wrong Bus							|Warps an opponent randomly on the map.
 Fake Map							|Warps you randomly on the map. 
 Gold Shoes							|Makes you move faster. (Move +1) Play again.
 Ultima Coin							|Gives everyone else random statuses. May backfire.
-Gift Bag 						|See what's inside. 
-Gift Bag 							|See what's inside. 
-Gift Bag 					|See what's inside. 
+Backpack 						|See what's inside. 
+Backpack 							|See what's inside. 
+Backpack 					|See what's inside. 
 Love Potion 					|Improves your seductiveness. (+1 heart on a date) No effect when single. 
 Meal Coupon							|Gives you some gifts of type "Food".
 Drink Coupon						|Gives you some gifts of type "Drink".
