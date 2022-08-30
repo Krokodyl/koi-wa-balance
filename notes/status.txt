@@ -1,0 +1,29 @@
+欠	Weak
+x40300
+07 0f 13 18 2c 28 5c 48 2f cf b7 90 e9 a1 d1 81
+c0 e0 d0 30 18 08 04 04 f0 f6 fa 12 1b 12 ab 22
+c1 81 c3 83 25 c4 6a 48 24 20 10 18 03 0f 03 00
+93 02 83 02 81 c6 bd 74 3a 08 14 30 98 e0 e0 00
+
+バ	Ba
+x40340
+07 0F 17 18 28 20 59 49 2D C9 AD 89 CD 89 C4 99 
+C0 E0 D0 30 18 08 54 54 F8 56 FA 52 AB 02 03 82 
+C4 99 D8 90 38 D0 78 50 28 20 10 18 03 0F 03 00 
+43 82 C3 82 C1 86 C5 84 4A 08 14 30 98 E0 E0 00
+
+x40380	x2 (Super Roll)
+00 00 00 00 00 00 00 00 00 00 00 00 22 22 15 14 00 00 00 00 38 38 5C 44 66 44 26 04 86 04 02 0C 0A 08 14 14 2A 22 11 00 00 00 00 00 00 00 00 00 0E 08 14 10 A8 20 70 60 7D 7E 3F 00 00 00 00 00
+
+
+Sore feet			Move -1
+Fast				Move +1
+Tired				Move = 1
+On a break			Skips your turn
+Confused			Loses control
+Broke				No gift from P space.
+Silenced			Can't use items
+Christmas			Extra kisses on a date
+Double movement		Move x2
+Invincible			Cancels one item attack.
+Protection			Dodges one battle

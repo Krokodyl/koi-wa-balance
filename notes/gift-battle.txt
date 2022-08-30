@@ -1,0 +1,32 @@
+持ってるプレゼントを出しあってその垂さをきそいます。
+
+必ず1人者のプレイヤーが先攻で{NL}デート中のカップルが後攻です。
+
+方向キーを押すと、プレゼントが{NL}天びんにのっかります。
+
+のせたプレゼントはBで戻せます。
+
+もってるプレゼントの説明は{NL}Yを押しながら方向キーで見れます。
+
+プレゼントを出し終わったら{NL}Xを押してください。
+
+もちろん、垂さが多い方が勝ちです。{NL}引き分けは後攻の勝ちとします。
+
+女の子は勝者にうつり、負けた者は{NL}マップのどこかにとばされます。
+
+垂さは単なる数値だけではなく{NL}女の子の好みが大きくかかわります。
+
+またプレゼントのくみ合わせによって{NL}ボーナスがつくことがあります。
+
+
+
+Place presents on the balance{NL}to try to tip it to your side.{WP}
+The single player goes first,{NL}the dating couple goes second.{WP}
+Press the d-pad and the gift{NL}will be placed on the balance.{WP}
+You can take back the gift{NL}you put on with B.{WP}
+See description of the gifts{NL}by holding Y and the d-pad.{WP}
+Press X when you're done{NL}placing presents.{WP}
+The tipping side wins.{NL}The single player wins ties.{WP}
+The girl goes to the winner,{NL}the loser warps on the map.{WP}
+The balance is about numbers{NL}and also a girl's preference.{WP}
+Some combinations of presents{NL}grant set bonuses.{WP}{EL}

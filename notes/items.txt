@@ -1,0 +1,166 @@
+1af2	14 CB 01CD B5 AD DD 9F F0 03 010B 00
+
+
+Gyoza		ギョ－ザ		4C E2 E5 54
+
+
+x24A0E
+Handbag		ハンドバック		80 C8 66 40 CC 8E 00
+
+$C0/8C32 A9 C2       LDA #$C2                A:1BE6 X:0024 Y:0014 P:envMxdIzc
+Name loading
+
+x8C32	A9 C2
+		A9 D0
+Bank
+		
+Gift width in text box:
+x28F9	A9 08
+		A9 0A
+		
+Gift width in gift list:
+x2361	A9 08
+		A9 09
+
+Item width in text box:
+x28EC	A9 08
+		A9 0A
+
+Item width in item list:
+x2361	A9 08
+		A9 0A
+
+2361
+
+x22B7	Width for "Discard" line
+x22F5	Width for "Use/Cancel" line
+
+
+Item name loading
+$C0/8C5C A9 C2       LDA #$C2                A:1E5E X:000C Y:001F P:envMxdIzc
+
+Item price
+x7361	C6 0D 46 00
+
+Poor Coin				4e7b		
+Duty		4a98		4d0a		Remove 1 gift. Sometimes repeats.
+			4b11		4f4e
+			4b44		5006
+			
+ぜんりょくぎり
+全
+
+全力義理
+
+
+4AD0	4E18	I(x2)	Silver Feet		Double your movement
+4B99	5100			N Wind			Warps to the North space.
+4BED	5210			Walk Home		Warps to the Start space.
+						Super Roll		Doubles your movement and blocks 1 item attack.
+						Fake Map		Warps you somewhere.
+4B71	509E			Meal Coupon		Food gifts
+						Drink Coupon	Drink gifts
+						Move 1
+4BAB	512A			Steal			Steal one item from a random opponent.
+4A93	4CFA			Wheel			Reverse the order.
+4BCC	517B			Beroron Tax		Discards one opponent's gift. Sometimes critical.
+4AC9	4E00			Switch			Switches your position with someone else.
+						Nu's Head		Makes one opp slow
+4B28	4FBA			Temptation		Earthly desires make everyone confused
+						Exchange
+						Gift Tax
+						Gift Bag
+4ADF	4E52			Status Exchange	Swap the stats on yourself for someone else's stats.
+						Poor Heart		Make someone broke (they don't get gift from P space)
+4A71	4C81			Time-out		Forces someone to take a break.
+4B89	50E2			South Wind		A mahjong tile that warps to the South space.
+4BE4	51E3			Silence			Silences everyone else. Sometimes backfires and silences you.
+		5006			Ultima Coin		Gives everyone else random{NL}statuses.{NL}Sometimes backfires.{EL}
+4B1F	4F8C			Battle Gong		Triggers a battle with a dating couple.{NL}No effect if you are dating.{EL}
+4A7D	4CB4			Sore Feet		Makes someone else slow.
+4AF9	4ECB			Stop Coin		Forces everyone else to take a break.{NL}Sometimes backfires.{EL}
+4AA6	4D53			Daikai Tengiri	Discards one gift from everyone else.
+4BD3	519B			Djanpu giri		Discards one opponent's item. Sometimes critical.
+4BB5	5144							Trade all your items with{NL}a random opponent.{EL}
+						Trade
+4A8E	4CE4			Confusion		Makes someone confused.
+4AF1	4EA2			Curse Coin		Makes everyone else slow. Sometimes backfires.
+
+Check : 4ADF	4BAB	4BCC
+
+0E		Red Dragon
+
+
+Move 1								Sets the roulette on 1.		
+Move 2								Sets the roulette on 2.
+Move 3								Sets the roulette on 3.
+Move 4								Sets the roulette on 4.
+Time-out		ストップ(Sutoppu)		Forces an opponent to take{NL}a break.{NL}(Skips turn)
+Poor Heart							Makes an opponent broke.{NL}(No gift on P spaces){EL}
+Sore Feet		(curse doll)		Makes an opponent slow.{NL}(Move -1){EL}
+Nu's Head							Makes an opponent tired.{NL}(They can only move 1){EL}
+Confusion							Makes an opponent{NL}confused.{EL}
+Wheel								Reverses the play order.{EL}
+Gift Tax		ぜんりょくぎり (giri)		Discards a gift from an opponent.{NL}Effect may be doubled.{EL}
+Item Tax (51)	みだれぎり (giri)		Discards an item from an opponent.{NL}Effect may be doubled.{EL}
+Moving Tax		だいかいてんぎり (giri)		Discards a gift from{NL}everyone else.{EL}
+Travel Tax		ハヤブサぎり (giri)		Discards an item from a{NL}everyone else.{EL}
+Gift Exchange	Gift Exchange		Exchange a gift with an opponent.{NL}No effect if you have none.{EL}
+Item Exchange (94)					Exchange an item with an opponent.{NL}No effect if you have none.{EL}
+Switch								Switches your position with an opponent.
+Silver Feet							Doubles your movement.{NL}Play again.
+Medicine							Cures all statuses.
+Status Swap							Exchange your status with an opponent.
+Poor Coin							Makes all opponents broke.{NL}(No gift on P spaces){NL}May backfire.{EL}
+Curse Coin							Makes all opponents slow.{NL}(Move -1){NL}May backfire.{EL}
+Stop Coin							Forces everyone else to{NL}take a break.{NL}Sometimes backfires.{EL}
+Nu's Coin (41)						Makes all opponents tired.{NL}(They can only move 1){NL}May backfire.{EL}
+King of H (91)						Gives you a Christmas{NL}effect.{NL}(Doubles the hearts on a{NL}date){EL}
+Little Brother						Everyone discards a silver{NL}gift.{EL}
+Little Sister						Discards all food gifts from everyone.
+Battle Gong							Triggers a battle with a{NL}dating couple.{NL}No effect if you are{NL}dating.{EL}
+Temptation							Earthly desires make everyone confused.
+Wrong Bus							Warps an opponent randomly{NL}on the map.{EL}
+Fake Map							Warps you randomly on the{NL}map.{EL}
+Gold Shoes							Makes you move faster.{NL}(Move +1){NL}Play again.
+Ultima Coin							Gives everyone else random statuses. May backfire.
+Gift Bag 1 (60)						See what{'s} inside.{EL}
+Gift Bag 2							See what{'s} inside.{EL}
+Gift Bag 3 (66)						See what{'s} inside.{EL}
+Love Potion (93)					Improves your{NL}seductiveness.{NL}(+1 heart on a date){NL}No effect when single.{EL}
+Meal Coupon							Gives you some gifts of type "Food".
+Drink Coupon						Gives you some gifts of type "Drink".
+East Wind							A mahjong tile that warps{NL}to the East space.{EL}
+South Wind							A mahjong tile that warps{NL}to the South space.{EL}
+West Wind							A mahjong tile that warps{NL}to the West space.{EL}
+North Wind							A mahjong tile that warps{NL}to the North space.{EL}
+Rob (8e)							Steals a gift from an opponent.
+Steal								Steals an item from an opponent.
+Gift Swap							Exchange all your gifts with an opponent.
+Item Swap							Exchange all your items with an opponent.
+Sales Tax (7A)		ベロロンぎり (giri)	Discards a gift from an opponent.{NL}May target all gifts.{EL}
+Wealth Tax (50)		ヂャンプぎり (giri)	Discards an item from an opponent.{NL}May target all items.{EL}
+Super Dice							Doubles your movement and{NL}blocks 1 item attack.
+Silence								Silences everyone else.{NL}(No item use){NL}May backfire.{EL}
+Mall Ticket							Warps to the Starting space.
+Arena Ticket						Warps to the Pro Wrestling{NL}Arena(South West).
+1000 cranes							Children{'s} gift.{NL}Status clear and double{NL}movement for all single{NL}players.{EL}
+10 crowns							Children{'s} gift.{NL}Warps you near an opponent{NL}and play again.{NL}No effect when dating.{EL}
+Jealousy							Makes all the dating{NL}couples tired.{NL}(They can only move 1){EL}
+564 Dice							Warps everyone around the map.
+Test Item 1							If anyone is reading this{NL}message, it's a bug.{NL}Please report it.{EL}
+Test Item 2							If anyone is reading this{NL}message, it's a bug.{NL}Please report it.{EL}
+White Dragon (64)					Trades this mahjong tile{NL}for an item.{NL}If you bring the three{NL}dragon tiles on a date...{EL}
+Green Dragon (d2)					Trades this mahjong tile{NL}for an item.{NL}If you bring the three{NL}dragon tiles on a date...{EL}
+Red Dragon (49)						Trades this mahjong tile{NL}for an item.{NL}If you bring the three{NL}dragon tiles on a date...{EL}
+
+4C43
+
+ぜんりょく	Effort Giri 
+
+
+ICON	ITEM
+x2		Super Dice
+		Silver Feet
+Star	King of H (Christmas effect)
+Skull	Broke	

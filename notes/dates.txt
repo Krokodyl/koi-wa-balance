@@ -1,0 +1,94 @@
+0BDD	
+
+In game text box 26 chars
+Credit text 15 chars
+
+1.		キティ・ワイルド	Kiti Wairudo		Kitty		+	Temple
+2.		秋集 萌		Aki-shū moe			Autumn		+	Art Museum
+3.		川崎いすづ		Kawasaki Isuzu		Holly		+	Live House
+4.		時野こよみ		Koyomi Tokino		Robin		+	amusement park
+5.		浅倉奈美		Asakura Nami		Nami		+	Movie Theater
+6.		香野かりん		Kōno Karin			Karin		+	Indoor Ski Slope
+7.		相馬佐弥		Soma Saya						+	Disco
+8.		蝶野夕香		Chono Yuka						+	Bay Bridge
+9.		阿川千枝美	Agawa Chiemi					+	Swimming Pool
+10.		堀内瑞穂		Horiuchi Mizuho		Mizuho		+	Sea
+11.		水島かずみ		Mizushima Kazumi	Kazumi		+	Aquarium
+12.		名和 薫		Nawa Kaoru			Kaoru		+	Stadium
+13.		浦軒阿茶美	Uraken Kuma Chami					Arena
+		(あちゃみ)		Achami
+0115 017E 0100 0246 0296
+
+阿	a	kuma
+茶	cha
+美	bi	mi		beauty
+
+
+蝾 -> 蝶
+穗 -> 穂
+
+$C0/44BE A9 C2       LDA #$C2                A:000B X:0030 Y:0008 P:envMxdIzc
+
+Date name loading
+
+
+
+Date lines
+0b99	16 chars
+
+380f	Aquarium
+0baa	Museum (Autumn)
+
+########## 1 Kitty #################
+3C40	07
+3C53	01
+3C64
+3C7C	08
+3C95
+3CAC
+3CC3
+3CDB	01
+3CF2
+3D0A	03
+3D2D	0E
+3D4C	02
+3D7A	10
+3DA3	20
+3DDD
+3DEE	20
+
+########## 8.YUKA #################
+42D9	20
+42F3	07	
+430D	08
+4341		-----
+4358		-----
+437B		-----
+4397	01	
+43D9		----
+43F3	03	
+441E		-----
+4456	02	
+446C
+4479
+4483
+448D
+4497
+
+########## 9.Chiemi ################# 30
+2E08
+2E22	1a
+2E44	08
+2E7C	07
+2EAC	03
+2ECA	0E
+2EF5	12
+2F1E
+2F37	02
+2F62	01
+2F90	0D
+2FB7
+3043
+30BD
+
+########## 10.Mizuho #################

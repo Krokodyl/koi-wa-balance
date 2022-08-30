@@ -1,0 +1,110 @@
+iNPUT
+
+0CCA	0C66	1686	149C9
+
+		0C7B	16A5	149FA
+			
+		0C90	16AA	14A2B
+		
+		0CA5	16AF	14A5C
+		
+		0CBA	16B4	14A8D
+		
+
+21686	
+		40 FF 41 FF 42 FF 43 FF 44 FF 
+		45 FF 46 FF 47 FF 48 FF 49 FF 
+B5 A3 AD 9F 01 BE F9 05 8C 98 BC 
+		4A FF 4B FF 4C FF 4D FF 4E FF 
+		4F FF 50 FF 51 FF 52 FF 53 FF 
+02 57 4B 8B 8B CD 9F F0 05 AA AC 
+		54 FF 55 FF 56 FF 57 FF 58 FF 
+		56 FF FF FF FF FF FF FF FF FF 
+F0 03 01 0B 00 13 81 05 AB DB 8D 
+		FF FF FF FF FF FF FF FF FF FF 
+		FF FF FF FF FF FF FF FF FF FF 
+90 01 28 4B B3 8F B3 CD 9F F0 03 
+		FF FF FF FF FF FF FF FF FF FF
+
+
+0CCF	0C07	166D	148D4		1Lか		74 4b 8b
+
+		0C1C	1672	14905
+		
+		0C31	1677	14936
+		
+		0C46	167C	14967
+		
+		0C5B	1681	14998
+		
+2166D	
+A0 FF A1 FF A2 FF A3 FF A4 FF A5 FF A6 FF A7 FF A8 FF A9 FF
+
+
+$C1/35B7 A9 C2 00    LDA #$00C2              A:0200 X:0001 Y:0000 P:envmxdIzc
+$C1/35BA 8D 52 00    STA $0052  [$00:0052]   A:00C2 X:0001 Y:0000 P:envmxdIzc
+...
+$C1/3645 A7 50       LDA [$50]  [$C2:0206]   A:0206 X:0001 Y:0000 P:envmxdIzc
+$C1/3647 18          CLC                     A:1677 X:0001 Y:0000 P:envmxdIzc
+$C1/3648 6D 33 00    ADC $0033  [$00:0033]   A:1677 X:0001 Y:0000 P:envmxdIzc
+$C1/364B 8D 50 00    STA $0050  [$00:0050]   A:1677 X:0001 Y:0000 P:envmxdIzc
+$C1/364E AD 35 00    LDA $0035  [$00:0035]   A:1677 X:0001 Y:0000 P:envmxdIzc
+...
+$C1/36C1 A7 50       LDA [$50]  [$C2:1677]   A:0001 X:0001 Y:0001 P:envMxdIzc
+$C1/36C3 97 58       STA [$58],y[$7F:043E]   A:00D2 X:0001 Y:0001 P:eNvMxdIzc
+
+
+A9 D0
+8D 52
+A7 50
+97 58
+6B
+
+a  b  c  d  e  f  g  h  i  j  {EL}
+k  l  m  n  o  p  q  r  s  t  {EL}
+u  v  w  x  y  z              {EL}
+
+0  1  2  3  4  5  6  7  8  9  {EL}
+(  )  ?  !  /  *  +  -  .  ,  {EL}
+・  :  ♪
+
+c6=
+
+c8=
+c9=
+ca=
+cb=♡
+cc=
+cd=
+ce=
+cf=
+d1={'s}
+d2=
+d3={'t}
+d4=
+
+1417B	A9 05	(02) Human
+141F1	A9 0B	(09) Controller:
+14510	A9 0D	(08) AI Difficulty
+13989	A9 10	(10) description of AI (23 chars max)
+
+13F5A	A9 0F	(08) AI names (15 chars max) COM1
+13FDE	A9 0F	(08) AI names (15 chars max) COM2
+14020	A9 0F	(08) AI names (15 chars max) COM3
+13F9C	A9 0F	(0A) AI names (15 chars max) COM4
+
+$C1/3F5C 8D 20 01    STA $0120  [$00:0120]   A:0008 X:010C Y:002E P:envMxdIzC
+$C1/3FE0 8D 20 01    STA $0120  [$00:0120]   A:0008 X:010C Y:0052 P:envMxdIzC
+$C1/4022 8D 20 01    STA $0120  [$00:0120]   A:0008 X:010C Y:0054 P:envMxdIzC
+
+AI name loading
+$C1/2E5E A0 00 00    LDY #$0000              A:0000 X:0010 Y:0014 P:envMxdIZC
+$C1/2E61 AE 14 00    LDX $0014  [$00:0014]   A:0000 X:0010 Y:0000 P:envMxdIZC
+$C1/2E64 B7 50       LDA [$50],y[$C2:180F]   A:0000 X:0010 Y:0000 P:envMxdIzC
+$C1/2E66 9F 3D 04 7F STA $7F043D,x[$7F:044D] A:00B3 X:0010 Y:0000 P:eNvMxdIzC
+
+A9 D0
+8D 52 00
+A0 00 00
+AE 14 00
+6B
