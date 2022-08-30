@@ -5522,7 +5522,7 @@ VALUE=4ecb
 OFFSETDATA=24ECB
 DATA=01C2 02A6 0105 0135 BF C9 B3 CB 05 B1 0156 BF B5 97 BD 99 4B 05 9F BD B5 01C2 02A6 B5 02AB CD A5 8D BD 99 F0 00
 JPN=自分以外みんなを{NL}お休みにしますが{NL}たまに自分に遮ってきます。{EL}
-ENG=Forces everyone else to{NL}take a break.{NL}Sometimes backfires.{EL}
+ENG=Forces everyone else to{NL}take a break.{NL}May backfires.{EL}
 
 OFFSET=20930
 VALUE=4ef3
