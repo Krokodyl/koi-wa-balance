@@ -10,6 +10,25 @@ Despite this weird premise, the game has no sexual content beyond a few innuendo
 
 ## Screenshots
 
+Japanese | English
+------------ | -------------
+![image 01](screenshots/japanese/01.png) | ![image 01](screenshots/english/01.png)
+![image 01](screenshots/japanese/02.png) | ![image 01](screenshots/english/02.png)
+![image 01](screenshots/japanese/03.png) | ![image 01](screenshots/english/03.png)
+![image 01](screenshots/japanese/04.png) | ![image 01](screenshots/english/04.png)
+![image 01](screenshots/japanese/05.png) | ![image 01](screenshots/english/05.png)
+![image 01](screenshots/japanese/06.png) | ![image 01](screenshots/english/06.png)
+![image 01](screenshots/japanese/07.png) | ![image 01](screenshots/english/07.png)
+![image 01](screenshots/japanese/08.png) | ![image 01](screenshots/english/08.png)
+![image 01](screenshots/japanese/12.png) | ![image 01](screenshots/english/12.png)
+![image 01](screenshots/japanese/13.png) | ![image 01](screenshots/english/13.png)
+![image 01](screenshots/japanese/14.png) | ![image 01](screenshots/english/14.png)
+![image 01](screenshots/japanese/15.png) | ![image 01](screenshots/english/15.png)
+![image 01](screenshots/japanese/16.png) | ![image 01](screenshots/english/16.png)
+![image 01](screenshots/japanese/17.png) | ![image 01](screenshots/english/17.png)
+![image 01](screenshots/japanese/18.png) | ![image 01](screenshots/english/18.png)
+
+
 ## References
 
 Japanese | Comment
