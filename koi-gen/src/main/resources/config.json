@@ -205,14 +205,20 @@
 
     {
       "code": "",
-      "offset": "40380",
-      "desc": "Status Icon x2",
+      "offset": "40300",
+      "desc": "Status Icon Down",
       "file": true
     },
     {
       "code": "",
-      "offset": "40300",
-      "desc": "Status Icon Down",
+      "offset": "40340",
+      "desc": "Status Icon Protected",
+      "file": true
+    },
+    {
+      "code": "",
+      "offset": "40380",
+      "desc": "Status Icon x2",
       "file": true
     },
     {

@@ -94,6 +94,12 @@ public class ImageReader {
                 2
         );
         s = generateSpriteDataFromImage(
+                "src/main/resources/images/status/status-protected.png",
+                "src/main/resources/data/40340.data",
+                new Palette2bpp("/palettes/status.png"),
+                2
+        );
+        s = generateSpriteDataFromImage(
                 "src/main/resources/images/status/status-xmas.png",
                 "src/main/resources/data/403C0.data",
                 new Palette2bpp("/palettes/status.png"),
