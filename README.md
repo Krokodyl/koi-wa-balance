@@ -10,7 +10,7 @@ Despite this weird premise, the game has no sexual content beyond a few innuendo
 
 ## English Patch
 
-### Sept 2022 - First release 1.0 below.
+### August 2022 - First release 1.0 below.
 
 Patch file v1.0 is available here : [BS Koi ha Balance - Battle of Lovers - English 1.0.zip](/patch/BS%20Koi%20ha%20Balance%20-%20Battle%20of%20Lovers%20-%20English%201.0.zip)
 
