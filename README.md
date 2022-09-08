@@ -10,13 +10,14 @@ Despite this weird premise, the game has no sexual content beyond a few innuendo
 
 ## English Patch
 
-### August 2022 - First release 1.0 below.
+### Sept 2022 - version 1.1
+Patch file v1.1 is available here : [BS Koi ha Balance - Battle of Lovers - English 1.1.bps.zip](/patch/1.1/BS%20Koi%20ha%20Balance%20-%20Battle%20of%20Lovers%20-%20English%201.1.bps.zip)<br/>
+Also available on romhacking.net : [https://www.romhacking.net/translations/6647/](https://www.romhacking.net/translations/6647/)
 
-> ### ⚠️LOADING ISSUES
-> (september update)<br/>
-> If the BS patched rom doesn't work properly, I made another patch which modifies the BS header and disguises the rom as a regular SNES rom:
-> <br/>[BS Koi ha Balance - Battle of Lovers - English - SNES-Header.zip](/patch/snes/BS%20Koi%20ha%20Balance%20-%20Battle%20of%20Lovers%20-%20English%20-%20SNES-Header.zip)
-> 
+- Fixes Satellaview Loading Error 09
+
+### August 2022 - version 1.0
+
 Patch file v1.0 is available here : [BS Koi ha Balance - Battle of Lovers - English 1.0.zip](/patch/BS%20Koi%20ha%20Balance%20-%20Battle%20of%20Lovers%20-%20English%201.0.zip)
 
 Also available on romhacking.net : [https://www.romhacking.net/translations/6647/](https://www.romhacking.net/translations/6647/)
