@@ -117,7 +117,7 @@ Portrait | Sprite | Name | Date
 ![](screenshots/girls/portraits/12.png) | ![](screenshots/girls/sprites/12.png) | Kaoru | ![](screenshots/dates/12.png) <br/>Stadium
 ? | ? | Bella | ![](screenshots/dates/13.png) <br/>Arena
 
-Bella is a special girl that sometimes appears in place of another one when you pick her up.<br/>
+Bella is a special girl that sometimes appears in place of another one when you pick her up.<br/>A date with her doesn't grant any heart.<br/>
 
 If you stay idle for 20 seconds on the title screen, you can watch a slideshow with information about each girl.<br/>
 ![](screenshots/girls/slideshow.gif)
@@ -141,7 +141,7 @@ Some combinations of presents grant set bonuses.
 
 ## Game End
 
-The game ends when all 13 girls have been taken on a date.
+The game ends when all 12 girls have been taken on a date.
 
 ## Controls
 
