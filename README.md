@@ -32,6 +32,10 @@ File/ROM CRC32: 60293E16<br/>
 Japanese rom size : 1.0 Mb (1 048 576 bytes)<br/>
 Patched rom size : 2.0 Mb (2 097 152 bytes)
 
+## Disclaimer
+
+<img src="https://raw.githubusercontent.com/Krokodyl/Krokodyl/main/warning.png" />
+
 ## Screenshots
 
 Japanese | English
